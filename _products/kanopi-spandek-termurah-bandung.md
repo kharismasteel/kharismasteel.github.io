@@ -54,16 +54,6 @@ Kanopi dengan material spandek adalah pilihan ekonomis yang sangat populer di ka
 - **Parkir Semi-Permanen** - Untuk bisnis parkir atau showroom
 - **Toko/Warung** - Area outdoor yang terlindungi
 
-### Perbandingan Dengan Alternatif Lain
-
-| Aspek | Spandek | Alderon | Kordoba |
-|-------|---------|---------|---------|
-| Harga | Rp 550rb/m² | Rp 750rb/m² | Rp 1,1jt/m² |
-| Daya Tahan | 10-15 tahun | 15-20 tahun | 15-20 tahun |
-| Transparansi | Tidak | Ya (30-50%) | Ya (20-40%) |
-| Estetika | Standar | Bagus | Sangat Bagus |
-| Perawatan | Minimal | Minimal | Minimal |
-| Cocok Untuk | Budget | Modern | Premium |
 
 ### Proses Pemasangan
 
