@@ -2,7 +2,7 @@
 title: Kanopi Bandung | Jasa Kanopi Minimalis & Modern Terpercaya
 price: Mulai Rp 450rb/m²
 category: Kanopi
-image: /assets/products/kanopi-alderon-murah-bandung.jpg
+image: [/assets/products/kanopi-alderon-murah-bandung.jpg](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEEyLU7FjKGghAnvD43XTVaRmO5-xD88WgkwWjVMTCNq4uXAD3y9CxI_owy5A_K-lqktMYnrVcS4lofitxpQGudDakM20ihUGa9toU-PpGoSAGWI2S0wifXCbpVJJZ-67eYORXgzHqiXC2/s640-rw/image.png)
 description: Butuh kanopi yang kuat, rapi, dan tahan lama? Kami spesialis kanopi di Bandung menawarkan solusi untuk rumah, kantor, dan usaha dengan material SNI, finishing powdercoat premium, dan harga terjangkau mulai Rp 450rb/m².
 keywords: kanopi, kanopi bandung, kanopi minimalis, jasa kanopi, kanopi modern, kanopi rumah, kanopi cafe, kanopi baja ringan, harga kanopi
 ---
