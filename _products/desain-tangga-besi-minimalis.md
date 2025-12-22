@@ -21,16 +21,7 @@ Dalam arsitektur modern, setiap sentimeter ruang berharga. Tangga besi minimalis
 *   **Waktu Pemasangan yang Relatif Cepat**: Karena komponen utamanya prefabrikasi di workshop, proses instalasi di lokasi lebih cepat dan bersih dibandingkan pengerjaan tangga cor.
 *   **Fleksibel untuk Customisasi**: Dapat dikombinasikan dengan material lain seperti **anak tangga kayu (teak, oak, atau jati)**, kaca tempered untuk railing, atau lampu LED strip untuk efek pencahayaan dramatis.
 
-## Jenis dan Model Populer Tangga Besi Minimalis
 
-| Jenis Tangga | Ciri Khas | Keunggulan | Cocok Untuk |
-| :--- | :--- | :--- | :--- |
-| **Tangga Spiral/Putar** | Berputar mengelilingi tiang pusat, bentuk melingkar. | **Paling hemat ruang**, nilai estetika tinggi, menjadi focal point. | Loteng, studio, ruang terbatas, atau sebagai tangga dekoratif tambahan. |
-| **Tangga Lurus Minimalis** | Bentuk garis lurus dengan struktur terbuka. | Desain **paling sederhana dan bersih**, biaya relatif lebih efisien, pemasangan mudah. | Ruangan dengan layout memanjang, rumah minimalis. |
-| **Tangga Cantilever** | Anak tangga seolah "menempel" di dinding tanpa penyangga kasau bawah yang terlihat. | **Kesan visual sangat ringan dan modern**, area bawah tangga dapat dimanfaatkan sepenuhnya. | Desain interior high-end, menciptakan kesan dramatis. |
-| **Tangga dengan Bordes** | Memiliki bidang datar (bordes) di tengah untuk belok arah. | **Lebih nyaman dan aman** untuk dilalui, cocok untuk ketinggian lantai yang signifikan. | Rumah 2 lantai, menghubungkan area dengan perbedaan ketinggian yang besar. |
-
-## Opsi Material & Finishing
 
 Kami di Kharisma Steel menawarkan berbagai pilihan untuk disesuaikan dengan kebutuhan Anda:
 
