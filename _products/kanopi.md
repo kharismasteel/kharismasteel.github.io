@@ -29,16 +29,6 @@ Mengapa ratusan pelanggan di Bandung mempercayakan proyek kanopi mereka kepada k
 4.  **Pengerjaan Profesional & Rapi:** Tim teknis kami yang berpengalaman memastikan pemasangan dilakukan dengan presisi, aman, dan area kerja dibersihkan setelah selesai.
 5.  **Harga Transparan & Kompetitif:** Anda mendapatkan penawaran harga yang jelas (breakdown material & jasa) dengan kualitas terbaik di kelasnya, mulai dari **Rp 450.000 per meter persegi**.
 
-## Pilihan Material Atap Kanopi
-
-Selain rangka berkualitas, kami menawarkan berbagai pilihan penutup atap untuk disesuaikan dengan kebutuhan dan budget:
-
-| Material Atap | Keunggulan | Harga Relatif | Cocok Untuk |
-| :--- | :--- | :--- | :--- |
-| **Spandek/Galvalum** | Ekonomis, tahan cuaca, beragam warna. | Terjangkau | Carport, teras, gudang. |
-| **Alderon/Transparan** | **Tembus cahaya** (penerangan alami), modern, mengurangi kesan gelap. | Menengah | Cafe, teras rumah, area komersial. |
-| **Polycarbonate** | Sangat transparan, impact resistant (tahan benturan), ringan. | Tinggi | Kanopi taman, skylight, area premium. |
-| **Genteng Metal** | Tampilan seperti genteng keramik namun lebih ringan, kesan tradisional-modern. | Menengah-Tinggi | Rumah dengan konsep klasik atau minimalis. |
 
 ## Contoh Penerapan & Perkiraan Biaya
 
