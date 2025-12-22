@@ -20,15 +20,8 @@ Berbeda dengan pagar besi tempa konvensional atau pagar minimalis polos, pagar l
 *   **Kekuatan & Durabilitas Unggul:** Dibuat dari **plat besi/baja berkualitas** (biasanya ketebalan 2-3mm) dengan rangka hollow yang kokoh. Setelah dipotong, dilakukan **finishing powder coating** atau **cat duco** yang tahan cuaca dan karat.
 *   **Nilai Estetika & Eksklusivitas Tinggi:** Pagar ini langsung menjadi focal point dan meningkatkan nilai estetika properti secara signifikan. Setiap pagar bisa jadi unik, tidak pasaran.
 
-## Material & Proses Finishing
 
-| Komponen | Penjelasan | Manfaat |
-| :--- | :--- | :--- |
-| **Bahan Plat** | Plat besi/baja mild steel dengan ketebalan 2-3mm. | Kaku, kuat, dan ideal untuk dipotong laser dengan detail tajam. |
-| **Rangka** | Besi hollow atau siku galvanis tebal. | Memberikan struktur utama yang kokoh dan stabil. |
-| **Teknologi Potong** | Mesin CNC Laser Cutting. | Presisi tinggi, tepian halus, dan konsisten untuk semua panel. |
-| **Finishing** | **Powder Coating** (pilihan warna RAL lengkap) atau **Cat Duco**. | Lapisan pelindung yang tahan lama, anti karat, dan mudah dibersihkan. |
-| **Aksesoris** | Engsel, kunci, handle, dan dudukan berkualitas. | Memastikan fungsi buka-tutup yang halus dan aman. |
+
 
 ## Ide Motif & Inspirasi Desain
 
