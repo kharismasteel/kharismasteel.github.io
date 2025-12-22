@@ -21,15 +21,7 @@ Mengapa kanopi ini layak menjadi investasi untuk properti Anda?
 *   **Kekuatan dan Keamanan Terjamin**: **Kaca tempered 10-12mm** yang kami gunakan 5x lebih kuat dari kaca biasa. Jika pecah (sangat jarang), ia akan aman menjadi butiran kecil tumpul, bukan serpihan tajam.
 *   **Struktur Kokoh dan Ramping**: Rangka **stainless steel hollow kotak atau pipa** memberikan kekuatan struktural yang besar dengan profil yang ramping, sehingga tampilan keseluruhan tetap ringan dan tidak berat secara visual.
 
-## Perbandingan dengan Kanopi Lain
 
-| Aspek | **Kanopi Kaca Stainless** | **Kanopi Polycarbonate** | **Kanopi Spandek** |
-| :--- | :--- | :--- | :--- |
-| **Estetika & Kesan** | ⭐⭐⭐⭐⭐ (Sangat Elegan & Modern) | ⭐⭐⭐ (Fungsional) | ⭐⭐ (Industrial/Sederhana) |
-| **Transparansi & Cahaya** | ⭐⭐⭐⭐⭐ (Transparan Sempurna) | ⭐⭐⭐⭐ (Tembus Cahaya Tapi Buram) | ⭐ (Tidak Tembus Cahaya) |
-| **Perawatan** | ⭐⭐⭐⭐⭐ (Sangat Mudah, Cuma Dilap) | ⭐⭐⭐⭐ (Mudah) | ⭐⭐⭐ (Berisik, Rentan Karat) |
-| **Daya Tahan** | ⭐⭐⭐⭐⭐ (Sangat Awet, Anti Karat) | ⭐⭐⭐⭐ (Awet, Warna Bisa Fade) | ⭐⭐⭐ (Butuh Perawatan Anti Karat) |
-| **Investasi Awal** | ⭐⭐ (Premium) | ⭐⭐⭐⭐ (Ekonomis) | ⭐⭐⭐⭐⭐ (Paling Ekonomis) |
 
 ## Aplikasi Ideal
 
