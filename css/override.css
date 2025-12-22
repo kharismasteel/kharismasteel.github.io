@@ -105,3 +105,10 @@ footer {
   background-color: #ffffff;
   border-top: 1px solid #f1f5f9;
 }
+
+/* Sidebar and grid helpers */
+.product-card img, .group img { display: block; }
+.sticky { position: sticky; }
+
+/* Mobile menu adjustments */
+#mobile-menu { box-shadow: 0 10px 30px rgba(2,6,23,0.08); }

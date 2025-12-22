@@ -4,8 +4,15 @@
 <body>
   {% include header.html %}
 
-  <main>
-    {{ content }}
+  <main class="pt-20">
+    <div class="max-w-7xl mx-auto px-6 grid lg:grid-cols-4 gap-8">
+      <div class="lg:col-span-3">
+        {{ content }}
+      </div>
+      <aside class="hidden lg:block">
+        {% include sidebar.html %}
+      </aside>
+    </div>
   </main>
 
   {% include footer.html %}
