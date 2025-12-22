@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  {% for product in site.products %}
+  <url>
+    <loc>{{ site.url }}{{ product.url }}</loc>
+    <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    {% if product.image %}
+    <image:image>
+      <image:loc>{{ site.url }}{{ product.image | relative_url }}</image:loc>
+      <image:title>{{ product.title }}</image:title>
+      <image:caption>{{ product.description }}</image:caption>
+    </image:image>
+    {% endif %}
+  </url>
+  {% endfor %}
+</urlset>

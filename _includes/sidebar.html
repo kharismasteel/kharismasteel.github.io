@@ -1,10 +1,12 @@
 <div class="sticky top-24 bg-white p-6 rounded-xl border">
   <h4 class="font-bold mb-4">Kategori Produk</h4>
   <ul class="space-y-2 text-sm">
-    {% assign cats = site.products | map: 'category' | uniq %}
-    {% for c in cats %}
-      <li><a href="/products/?category={{ c | downcase }}" class="text-slate-600 hover:text-indigo-600">{{ c }}</a></li>
-    {% endfor %}
+    <li><a href="{{ '/products/' | relative_url }}" class="text-slate-600 hover:text-indigo-600">Semua Produk</a></li>
+    <li><a href="{{ '/products/' | relative_url }}?category=kanopi" class="text-slate-600 hover:text-indigo-600">Kanopi</a></li>
+    <li><a href="{{ '/products/' | relative_url }}?category=pagar" class="text-slate-600 hover:text-indigo-600">Pagar Besi</a></li>
+    <li><a href="{{ '/products/' | relative_url }}?category=tangga" class="text-slate-600 hover:text-indigo-600">Tangga Besi</a></li>
+    <li><a href="{{ '/products/' | relative_url }}?category=railing" class="text-slate-600 hover:text-indigo-600">Railing</a></li>
+    <li><a href="{{ '/products/' | relative_url }}?category=pintu" class="text-slate-600 hover:text-indigo-600">Pintu Besi</a></li>
   </ul>
 
   <hr class="my-4" />

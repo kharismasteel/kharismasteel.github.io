@@ -1,0 +1,23 @@
+User-agent: *
+Allow: /
+
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: DotBot
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+Sitemap: https://kharismasteel.github.io/sitemap.xml
+Sitemap: https://kharismasteel.github.io/sitemap-products.xml
+Sitemap: https://kharismasteel.github.io/sitemap-posts.xml
+
+# Copyright & Protection
+# © 2024 Kharisma Steel. All rights reserved.
+# Unauthorized copying, reproduction, or distribution of content is prohibited.
+# Content is protected by copyright and intellectual property laws.
