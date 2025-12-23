@@ -131,8 +131,8 @@ A: Spandek standar tersedia dalam warna silver (abu-abu). Untuk warna custom, ka
 
 Dapatkan **penawaran spesial** dan **konsultasi gratis** untuk kanopi spandek Anda.
 
-📞 **Telepon:** 0813-2008-7982
-💬 **WhatsApp:** [Chat sekarang](https://wa.me/6281320087982)
+📞 **Telepon:** 082318993732
+💬 **WhatsApp:** [Chat sekarang](https://wa.me/6282318993732)
 📍 **Lokasi:** Jl. Cigugur Girang, Parongpong, Bandung
 
 ---
