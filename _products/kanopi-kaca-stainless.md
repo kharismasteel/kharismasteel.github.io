@@ -71,5 +71,4 @@ A: Harga mencerminkan **kualitas material premium** (stainless steel 304 & kaca 
 
 Beri pengalaman hidup yang berbeda dengan Kanopi Kaca Stainless. Konsultasikan proyek premium Anda dengan **Kharisma Steel**, ahlinya kanopi elegan di Bandung.
 
-📞 **Konsultasi & Penawaran Premium**: 0813-2008-7982  
 📍 **Workshop**: Jl. Cigugur Girang No.rt03 rw 07, Cigugur Girang, Kec. Parongpong, Bandung.
