@@ -71,5 +71,5 @@ Jangan puas dengan pagar yang biasa saja. Dengan pagar laser cutting, Anda memil
 **Hubungi kami sekarang untuk diskusi desain dan mendapatkan penawaran!**
 
 **Kharisma Steel - Spesialis Pagar Laser Cutting Cimahi & Bandung**  
-📱 **WhatsApp:** [Klik untuk Chat](https://wa.me/6281320087982)  
+📱 **WhatsApp:** [Klik untuk Chat](https://wa.me/6282318993732)  
 📍 **Lokasi Workshop:** Cimahi, Bandung. Melayani Jabar.
