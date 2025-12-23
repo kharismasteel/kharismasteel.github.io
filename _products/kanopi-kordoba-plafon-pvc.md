@@ -69,5 +69,5 @@ A: Untuk area standar (misal 3m x 5m), pengerjaan biasanya memakan waktu **3-5 h
 
 Jangan tunda untuk memiliki ruang luar yang lebih fungsional dan indah. Hubungi **Kharisma Steel** sekarang untuk konsultasi dan penawaran terbaik pemasangan **Kanopi Kordoba dengan Plafon PVC** di Bandung dan sekitarnya.
 
-📞 **Konsultasi & Survey Gratis**: 0813-2008-7982  
+
 📍 **Workshop**: Jl. Cigugur Girang No.rt03 rw 07, Cigugur Girang, Kec. Parongpong, Bandung.
