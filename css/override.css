@@ -430,3 +430,101 @@ footer {
   cursor: not-allowed;
   pointer-events: none;
 }
+
+/* ============================
+   FIX GAMBAR MELEBAR DI POST
+   ============================ */
+
+/* 1. HAPUS duplikat rules ini: */
+/* 
+.prose img {
+  border-radius: 1rem;
+  margin: 1.5rem 0;
+  box-shadow: 0 4px 12px rgba(15, 23, 42, 0.1);
+}
+*/
+
+/* 2. GANTI dengan ini: */
+.prose img {
+  max-width: 100% !important;
+  height: auto !important;
+  display: block;
+  margin: 1.5rem auto;
+  border-radius: 1rem;
+  box-shadow: 0 4px 12px rgba(15, 23, 42, 0.1);
+}
+
+/* 3. Untuk gambar featured (utama di atas artikel) */
+.post > div:first-child img,
+.mb-12.-mx-6.md\:-mx-0 img {
+  width: 100% !important;
+  max-width: 100% !important;
+  height: auto;
+  border-radius: 1rem !important;
+}
+
+/* 4. Untuk semua gambar di konten artikel */
+.post-content img,
+.post .prose img,
+article .prose img {
+  max-width: 100% !important;
+  width: auto !important;
+  height: auto !important;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* 5. Paksa reset untuk mobile */
+@media (max-width: 640px) {
+  .prose img,
+  .post-content img,
+  .post .prose img,
+  article img:not(.product-card img) {
+    max-width: 100vw !important;
+    width: 100% !important;
+    height: auto !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+  }
+  
+  /* Container gambar featured */
+  .mb-12.-mx-6 {
+    margin-left: -1rem !important;
+    margin-right: -1rem !important;
+    width: calc(100% + 2rem) !important;
+  }
+  
+  .mb-12.-mx-6 img {
+    border-radius: 0 !important;
+    width: 100vw !important;
+    max-width: 100vw !important;
+  }
+}
+
+/* ============================
+   TAMBAHKAN DI BAWAH SEMUA CSS
+   ============================ */
+
+/* RESET GAMBAR DI POST (Letakkan di paling akhir) */
+.post article img,
+.post-content .prose img,
+.prose-lg img {
+  max-width: 100% !important;
+  height: auto !important;
+}
+
+/* Force untuk semua gambar di dalam konten */
+div[itemprop="articleBody"] img,
+.e-content img {
+  max-width: 100% !important;
+  height: auto !important;
+}
+
+/* Untuk gambar di dalam text (inline) */
+.prose p img,
+.prose li img {
+  display: inline-block;
+  max-width: 100%;
+  vertical-align: middle;
+}
