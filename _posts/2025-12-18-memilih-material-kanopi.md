@@ -253,22 +253,6 @@ Stainless steel adalah material metal yang tahan korosi ekstrim. Tidak transpara
 - **Longevity:** Lifetime investment
 
 ---
-
-## Tabel Perbandingan Lengkap
-
-| Aspek | Alderon | Spandek | Kaca | Stainless |
-|-------|---------|---------|------|-----------|
-| **Harga/m²** | Rp 800rb–1.2jt | Rp 1–1.6jt | Rp 2–3.5jt | Rp 2.8–5.2jt |
-| **Durabilitas** | 15–20 thn | 20–25 thn | 30–50 thn | 50+ thn |
-| **Maintenance** | Sedang | Sedang | Moderate | Low |
-| **Estetika** | Casual | Modern | Premium/transparent | Ultra-luxury |
-| **Safety** | OK | OK | Very safe | OK |
-| **UV protection** | Yes | Yes | Optional | N/A |
-| **Cocok pantai** | No | Moderate | Yes | Very yes |
-| **Noise hujan** | Tinggi | Moderate | Low | Low |
-| **DIY friendly** | Yes | Moderate | No | No |
-| **Color options** | Many | Limited | 1 (clear) | 1 (silver) |
-
 ---
 
 ## Panduan Pemilihan Cepat
