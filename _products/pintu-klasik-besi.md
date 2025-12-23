@@ -66,5 +66,5 @@ Pilih Pintu Klasik Besi sebagai mahkota dari hunian Anda. Dapatkan keamanan tanp
 **Konsultasikan konsep pintu klasik impian Anda sekarang juga!**
 
 **Kharisma Steel - Ahli Pintu & Pagar Besi Berkualitas**  
-📞 **Telepon/WA:** [0813-2008-7982](https://wa.me/6281320087982)  
+📞 **Telepon/WA:** [0813-2008-7982](https://wa.me/6282318993732)  
 🏭 **Melayani:** Bandung, Cimahi, Jawa Barat, dan sekitarnya.
