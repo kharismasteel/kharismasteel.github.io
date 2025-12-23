@@ -62,5 +62,5 @@ A: **Tentu bisa.** Anda dapat memilih **atap galvalum/spandek warna** (seperti m
 
 Untuk kanopi yang bukan hanya melindungi, tetapi juga memperindah interior ruang luar Anda, **Kanopi Kordoba Varian 2** adalah pilihan tepat. Percayakan pada spesialis kami di Bandung.
 
-📞 **Survey & Konsultasi Gratis**: 0813-2008-7982  
+
 📍 **Workshop**: Jl. Cigugur Girang No.rt03 rw 07, Cigugur Girang, Kec. Parongpong, Bandung.
