@@ -68,5 +68,5 @@ A: **Harga yang tertera adalah untuk struktur utama tangga (stringer/badan)**. B
 
 Jadikan keterbatasan ruang sebagai peluang untuk berkreasi. Konsultasikan ide tangga besi minimalis impian Anda dengan **Kharisma Steel**, spesialis fabrikasi besi custom di Bandung.
 
-📞 **Konsultasi Desain & Survey Gratis**: 0813-2008-7982  
+
 📍 **Workshop**: Jl. Cigugur Girang No.rt03 rw 07, Cigugur Girang, Kec. Parongpong, Bandung.
