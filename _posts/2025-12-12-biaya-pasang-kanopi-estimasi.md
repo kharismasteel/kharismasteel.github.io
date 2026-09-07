@@ -1,15 +1,16 @@
 ---
 layout: post
-title: "Biaya Pasang Kanopi 2025: Estimasi & Breakdown Harga per Material"
-date: 2025-12-12 09:00:00 +0700
-description: Kalkulasi lengkap biaya pasang kanopi 2025. Breakdown harga per material, jasa, dan tips hemat tanpa mengurangi kualitas.
+title: "Estimasi Biaya Pasang Kanopi Per Meter 2026: Rincian Lengkap Material SNI Bandung"
+date: 2026-02-12 09:00:00 +0700
+description: Kalkulasi lengkap estimasi biaya pasang kanopi per meter 2026 di Bandung. Breakdown harga per material SNI, jasa, dan tips hemat tanpa mengurangi kualitas.
 image: /assets/products/kanopi-kordoba-plafon-pvc-2.jpg
 categories: [harga, kanopi]
 tags: [biaya, estimasi, kanopi, harga]
-keywords: "biaya pasang kanopi, harga kanopi bandung, kanopi murah, estimasi kanopi, material kanopi"
+keywords: "biaya pasang kanopi, harga kanopi bandung, kanopi murah, estimasi kanopi, material kanopi, bandung"
 ---
 
-## Biaya Pasang Kanopi 2025: Panduan Estimasi Lengkap
+# Estimasi Biaya Pasang Kanopi Per Meter 2026 di Bandung Raya
+
 
 Salah satu pertanyaan paling sering yang kami terima adalah: "Berapa biaya untuk memasang kanopi?" Jawabannya tidak simpel karena banyak variable yang mempengaruhi—dari material yang dipilih, ukuran area, hingga kompleksitas design.
 
@@ -260,4 +261,5 @@ Jangan hanya lihat harga terendah. Pertimbangkan **durabilitas, maintenance cost
 
 **Hubungi Kharisma Steel untuk konsultasi & quotation gratis!** Kami siap memberikan rekomendasi terbaik sesuai kebutuhan dan budget Anda.
 
-**WhatsApp:** [nomor] | **Email:** info@kharismasteel.com
+**WhatsApp / Telepon:** **082318993732** | **Email:** admin@laskharisma.com
+

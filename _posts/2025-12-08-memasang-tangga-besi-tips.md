@@ -1,15 +1,16 @@
 ---
 layout: post
-title: "Memasang Tangga Besi: Panduan Keamanan, Estetika & Standar Konstruksi"
-date: 2025-12-08 09:00:00 +0700
-description: Panduan lengkap memasang tangga besi yang aman dan indah. Tips dimensi, railing, finishing, dan proses instalasi sesuai standar SNI.
+title: "Tips Memasang Tangga Besi Mezzanine: Panduan Keamanan & Standar Konstruksi"
+date: 2026-02-08 09:00:00 +0700
+description: Panduan lengkap memasang tangga besi mezzanine yang aman dan indah. Tips dimensi, railing, finishing, dan proses instalasi sesuai standar SNI di Bandung.
 image: /assets/products/desain-tangga-besi-dan-kayu.jpg
 categories: [tangga, instalasi]
 tags: [tangga, instalasi, keselamatan, besi, konstruksi]
-keywords: "tangga besi, memasang tangga, keamanan tangga, standar tangga, tangga minimalis, finishing tangga"
+keywords: "tangga besi, memasang tangga, keamanan tangga, standar tangga, tangga minimalis, finishing tangga, bandung"
 ---
 
-## Memasang Tangga Besi: Panduan Lengkap untuk Hasil yang Aman & Indah
+# Tips Memasang Tangga Besi Mezzanine: Panduan Standar Keamanan & Estetika
+
 
 Tangga besi yang dirancang dan dipasang dengan baik dapat meningkatkan nilai estetika rumah sambil memastikan keselamatan penggunaan. Namun, banyak pemilik rumah yang tidak menyadari bahwa ada standar teknis yang harus dipenuhi.
 
@@ -259,4 +260,5 @@ Memasang tangga besi bukan sekadar proyek konstruksi biasa. Dibutuhkan:
 
 **Jangan percayakan tangga Anda pada sembarangan!** Hubungi Kharisma Steel untuk konsultasi gratis dan dapatkan tangga besi yang aman, indah, dan tahan puluhan tahun.
 
-**Hubungi kami sekarang:** WhatsApp: [nomor] | Email: info@kharismasteel.com
+**Hubungi kami sekarang:** WhatsApp / Telepon: **082318993732** | Email: admin@laskharisma.com
+

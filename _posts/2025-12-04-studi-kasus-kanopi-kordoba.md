@@ -1,15 +1,16 @@
 ---
 layout: post
-title: "Studi Kasus: Pemasangan Kanopi Kordoba di Rumah Minimalis Parongpong"
-date: 2025-12-04 09:00:00 +0700
-description: Studi kasus lengkap pemasangan kanopi Kordoba dengan plafon PVC di rumah minimalis. Lihat konsultasi desain, estimasi material, dan hasil akhir pemasangan.
+title: "Studi Kasus Pemasangan Kanopi Kordoba di Rumah Minimalis Parongpong Bandung"
+date: 2026-02-04 09:00:00 +0700
+description: Studi kasus lengkap pemasangan kanopi Kordoba dengan plafon PVC di rumah minimalis Parongpong Bandung. Lihat konsultasi desain, estimasi material, dan hasil akhir pemasangan.
 image: /assets/products/kanopi-kordoba-plafon-pvc.jpg
 categories: [studi-kasus, kanopi]
 tags: [studi-kasus, kanopi, kordoba, plafon-pvc, bandung, parongpong]
 keywords: "kanopi kordoba bandung, kanopi minimalis, plafon pvc, pemasangan kanopi, rumah minimalis parongpong"
 ---
 
-## Studi Kasus Nyata: Kanopi Kordoba untuk Rumah Minimalis
+# Studi Kasus Pemasangan Kanopi Kordoba di Parongpong Bandung
+
 
 Proyek ini menampilkan pemasangan kanopi Kordoba di salah satu rumah klien kami di area Parongpong, Bandung. Klien menginginkan solusi kanopi yang tidak hanya fungsional untuk melindungi dari cuaca tropis, tetapi juga menjadi elemen desain yang menyempurnakan tampilan rumah minimalis mereka.
 
@@ -96,4 +97,5 @@ Jika Anda sedang mempertimbangkan kanopi untuk rumah Anda, pertanyaan-pertanyaan
 3. Berapa anggaran yang tersedia?
 4. Berapa dimensi area yang ingin ditutupi?
 
-Hubungi kami di **WhatsApp: 0822-XXXX-XXXX** untuk konsultasi gratis dan estimasi biaya sesuai kebutuhan Anda!
+Hubungi kami di **WhatsApp / Telepon: 082318993732** untuk konsultasi gratis dan estimasi biaya sesuai kebutuhan Anda!
+

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Cara Merawat Pagar Besi Agar Tahan Bertahun-Tahun: Panduan Lengkap"
-date: 2025-12-20 09:00:00 +0700
+title: "Cara Merawat Pagar Besi Minimalis Agar Tahan Karat & Awet Berpuluh Tahun"
+date: 2026-02-20 09:00:00 +0700
 description: Panduan perawatan pagar besi agar awet & tidak berkarat. Tips pembersihan, inspeksi, dan maintenance preventif yang tepat.
 image: /assets/products/pagar-plat-laser-cutting-cimahi-bandung.jpg
 categories: [pagar, perawatan]
@@ -9,7 +9,7 @@ tags: [pagar, perawatan, besi, korosi, maintenance]
 keywords: "merawat pagar besi, perawatan pagar, pagar berkarat, rust prevention, maintenance pagar"
 ---
 
-## Cara Merawat Pagar Besi Agar Awet & Tidak Berkarat: Panduan Praktis
+# Cara Merawat Pagar Besi Minimalis Agar Awet & Tidak Berkarat
 
 Pagar besi adalah investasi jangka panjang untuk keamanan dan estetika rumah. Namun, tanpa perawatan yang tepat, karat bisa mulai muncul dalam beberapa tahun dan merusak penampilan serta strukturnya.
 
@@ -319,4 +319,4 @@ Jangan abaikan pagar Anda. Dengan perawatan sederhana & konsisten, investasi pag
 
 **Hubungi Kharisma Steel untuk konsultasi perawatan atau layanan professional restoration!** Kami siap membantu maintain pagar besi Anda dalam kondisi optimal.
 
-WhatsApp: [nomor] | Email: info@kharismasteel.com
+WhatsApp: [082318993732](https://wa.me/6282318993732) | Email: info@laskharisma.com

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Railing Balkon: Perbandingan Material, Keamanan & Perawatan Jangka Panjang"
-date: 2025-12-06 09:00:00 +0700
-description: "Panduan lengkap memilih material railing balkon: besi tempa, stainless steel, dan hollow. Perbandingan keamanan, estetika, perawatan, dan harga."
+title: "Panduan Memilih Railing Balkon Besi & Stainless Steel Berkualitas"
+date: 2026-02-06 09:00:00 +0700
+description: "Panduan lengkap memilih material railing balkon: besi tempa, stainless steel, dan hollow. Perbandingan keamanan, estetika, perawatan, dan harga di Bandung."
 image: /assets/products/balkon-klasik-tempa.jpg
 categories:
   - railing
@@ -12,10 +12,11 @@ tags:
   - balkon
   - material
   - keamanan
-keywords: "railing balkon, material railing, besi tempa, stainless steel, hollow, perawatan railing"
+keywords: "railing balkon, material railing, besi tempa, stainless steel, hollow, perawatan railing, bandung"
 ---
 
-## Memilih Material Railing Balkon yang Tepat untuk Rumah Anda
+# Panduan Memilih Railing Balkon Besi & Stainless Steel Berkualitas
+
 
 Railing balkon bukan hanya elemen keamanan, tetapi juga bagian penting dari estetika rumah Anda. Memilih material yang salah bisa berakibat pada perawatan yang merepotkan, korosi, atau bahkan masalah keamanan dalam jangka panjang.
 

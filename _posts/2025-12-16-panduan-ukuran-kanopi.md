@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Panduan Ukuran Kanopi: Dari Teras hingga Carport yang Sempurna"
-date: 2025-12-16 09:00:00 +0700
+title: "Panduan Ukuran Kanopi Rumah: Dari Teras Depan hingga Carport Mobil"
+date: 2026-02-16 09:00:00 +0700
 description: Panduan lengkap menentukan ukuran kanopi ideal. Standar dimensi untuk teras, carport, garasi, dan tips perhitungan yang tepat.
 image: /assets/products/kanopi-kordoba-atap-apderon.jpg
 categories:
@@ -15,7 +15,7 @@ tags:
 keywords: "ukuran kanopi, carport, teras, kanopi berapa meter, standar kanopi"
 ---
 
-## Panduan Lengkap Menentukan Ukuran Kanopi yang Sempurna
+# Panduan Lengkap Menentukan Ukuran Kanopi Rumah yang Sempurna
 
 Salah satu pertanyaan yang sering kami terima adalah: "Berapa ukuran kanopi yang tepat untuk rumah saya?" Jawabannya tidak bisa one-size-fits-all karena tergantung pada fungsi, area yang tersedia, dan kebutuhan spesifik.
 
@@ -262,4 +262,4 @@ Jangan terlalu kecil (jadi kurang nyaman) atau terlalu besar (waste money). **Sw
 
 **Hubungi Kharisma Steel untuk survey & rekomendasi dimensi yang optimal!** Kami siap membantu menentukan ukuran kanopi yang perfect untuk rumah Anda.
 
-WhatsApp: [nomor] | Email: info@kharismasteel.com
+WhatsApp: [082318993732](https://wa.me/6282318993732) | Email: info@laskharisma.com

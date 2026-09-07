@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Memilih Material Kanopi yang Tepat: Alderon, Spandek, Kaca & Stainless"
-date: 2025-12-18 09:00:00 +0700
+title: "Cara Memilih Material Atap Kanopi Terbaik: Alderon, Spandek, Solarflat & Kaca"
+date: 2026-02-18 09:00:00 +0700
 description: Perbandingan lengkap material kanopi. Lihat kelebihan, kekurangan, harga, durabilitas, dan rekomendasi untuk setiap jenis.
 image: /assets/products/kanopi-kaca-10mm-stainless.jpg
 categories:
@@ -16,7 +16,7 @@ tags:
 keywords: "material kanopi, alderon, spandek, kaca, stainless steel, kanopi terbaik"
 ---
 
-## Memilih Material Kanopi yang Tepat: Panduan Komprehensif 2025
+# Memilih Material Atap Kanopi yang Tepat: Panduan Komprehensif 2026
 
 Memilih material kanopi adalah salah satu keputusan paling penting dalam proyek rumah Anda. Material yang salah bisa berakibat biaya maintenance tinggi, durabilitas pendek, atau tampilan yang tidak memuaskan.
 
@@ -303,4 +303,4 @@ Stainless steel adalah material metal yang tahan korosi ekstrim. Tidak transpara
 
 **Hubungi Kharisma Steel untuk konsultasi material gratis!** Kami akan help Anda menentukan material terbaik sesuai budget, lokasi, dan lifestyle.
 
-WhatsApp: [nomor] | Email: info@kharismasteel.com
+WhatsApp: [082318993732](https://wa.me/6282318993732) | Email: info@laskharisma.com

@@ -1,15 +1,16 @@
 ---
 layout: post
-title: "Inspirasi Pagar Laser Cut untuk Fasade Modern: Desain & Implementasi"
-date: 2025-12-10 09:00:00 +0700
-description: Panduan memilih motif pagar laser cutting. Lihat inspirasi desain, proses produksi, dan contoh implementasi untuk rumah modern.
+title: "Inspirasi Pagar Laser Cutting Custom Motif untuk Rumah Modern Bandung"
+date: 2026-02-10 09:00:00 +0700
+description: Panduan memilih motif pagar laser cutting. Lihat inspirasi desain, proses produksi, dan contoh implementasi untuk rumah modern di Bandung.
 image: /assets/products/pagar-plat-laser-cutting-cimahi-bandung-2.jpg
 categories: [pagar, desain]
 tags: [laser-cut, pagar, desain, modern, fasade]
-keywords: "pagar laser cutting, pagar laser cut bandung, desain pagar modern, pagar plat besi, finishing pagar"
+keywords: "pagar laser cutting, pagar laser cut bandung, desain pagar modern, pagar plat besi, finishing pagar, bandung"
 ---
 
-## Pagar Laser Cut: Transformasi Fasade Rumah dengan Desain Modern
+# Inspirasi Pagar Laser Cutting Custom Motif untuk Rumah Modern Bandung
+
 
 Pagar tidak lagi hanya berfungsi sebagai pembatas dan keamanan. Dengan teknologi laser cutting, pagar kini menjadi elemen desain yang dapat menciptakan identitas visual yang kuat untuk rumah Anda.
 
@@ -286,4 +287,5 @@ Pagar laser cut bukan hanya fungsi, tetapi **investasi dalam identitas visual ru
 
 Jangan ragu untuk berkonsultasi dengan tim Kharisma Steel. Kami siap membantu mewujudkan pagar impian Anda dari konsep hingga instalasi selesai.
 
-**Hubungi kami untuk konsultasi design GRATIS!** WhatsApp: [nomor] | Email: info@kharismasteel.com
+**Hubungi kami untuk konsultasi design GRATIS!** WhatsApp / Telepon: **082318993732** | Email: admin@laskharisma.com
+

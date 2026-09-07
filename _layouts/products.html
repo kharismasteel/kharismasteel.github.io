@@ -60,10 +60,14 @@ layout: default
 
                 <!-- Products Grid -->
                 <div id="products-grid" class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6 mb-12">
-                    {% assign all_products = site.products | sort: 'title' %}
+                    {% assign today_str = "now" | date: "%Y-%m-%d" %}
+                    {% assign all_products = site.products | sort: 'date' | reverse %}
                     {% for p in all_products %}
+                    {% assign p_date_str = p.date | date: "%Y-%m-%d" %}
+                    {% if p.date == nil or p_date_str <= today_str %}
                     {% assign cat_slug = p.category | default: 'kanopi' | downcase %}
-                    <div class="product-item product-card rounded-3xl overflow-hidden bg-white border border-slate-200/80 shadow-sm hover:shadow-xl transition-all duration-300 flex flex-col justify-between group" data-category="{{ cat_slug }}">
+                    <div class="product-item product-card rounded-3xl overflow-hidden bg-white border border-slate-200/80 shadow-sm hover:shadow-xl transition-all duration-300 flex flex-col justify-between group" data-category="{{ cat_slug }}" data-date="{{ p_date_str }}">
+
                         <div>
                             <!-- Product Image Container -->
                             <div class="relative aspect-square overflow-hidden bg-slate-100">
@@ -105,8 +109,10 @@ layout: default
                             </a>
                         </div>
                     </div>
+                    {% endif %}
                     {% endfor %}
                 </div>
+
 
                 <!-- Status & Navigation Pagination Bar (Tombol Nav) -->
                 <div class="bg-white p-6 rounded-3xl border border-slate-200/80 shadow-sm flex flex-col sm:flex-row items-center justify-between gap-4">
