@@ -38,6 +38,9 @@ collections:
     output: true
     permalink: /products/:name/
 
+future: false
+
+
 titles_from_headings:
   strip_title: true
   collections: true
