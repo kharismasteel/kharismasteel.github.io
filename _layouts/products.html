@@ -2,82 +2,248 @@
 layout: default
 ---
 
-<div class="max-w-7xl mx-auto px-6 py-12">
-    <!-- Header -->
-    <div class="mb-12">
-        <h1 class="text-3xl md:text-4xl font-extrabold text-slate-900 mb-2">{{ page.title }}</h1>
-        <p class="text-slate-500">{{ page.description }}</p>
-    </div>
-
-    <!-- Main Content with Sidebar -->
-    <div class="grid md:grid-cols-4 gap-8">
-        <!-- Sidebar -->
-        <div class="md:col-span-1">
-            {% include sidebar.html %}
+<div class="pt-28 sm:pt-36 pb-20 px-4 sm:px-6 bg-slate-50/50 min-h-screen">
+    <div class="max-w-7xl mx-auto">
+        
+        <!-- Header Banner -->
+        <div class="mb-8 bg-white p-6 sm:p-10 rounded-3xl border border-slate-200/80 shadow-sm relative overflow-hidden">
+            <div class="relative z-10 max-w-3xl">
+                <div class="inline-flex items-center gap-2 px-3.5 py-1.5 mb-4 rounded-xl bg-blue-50 border border-blue-100 text-blue-700 text-xs font-black uppercase tracking-wider">
+                    <span class="w-2 h-2 rounded-full bg-blue-600 animate-pulse"></span>
+                    ⚡ KATALOG PRODUK KHARISMA STEEL PARONGPONG
+                </div>
+                <h1 class="text-3xl sm:text-4xl lg:text-5xl font-black text-slate-900 mb-3 tracking-tight">
+                    Layanan & Produk <span class="bg-gradient-to-r from-blue-600 to-amber-500 bg-clip-text text-transparent">Konstruksi Besi</span>
+                </h1>
+                <p class="text-slate-600 text-sm sm:text-base leading-relaxed">
+                    Katalog lengkap produk <strong>kanopi minimalis Bandung</strong>, <strong>pagar besi laser cutting</strong>, <strong>tangga besi mezzanine</strong>, dan <strong>konstruksi baja SNI</strong> bergaransi resmi. Free survey & konsultasi 24 jam.
+                </p>
+            </div>
+            <div class="absolute -right-16 -bottom-16 w-64 h-64 bg-blue-500/10 rounded-full blur-3xl pointer-events-none"></div>
         </div>
 
-        <!-- Products Grid -->
-        <div class="md:col-span-3">
-            <div class="grid grid-cols-2 md:grid-cols-3 gap-6 mb-12">
-                {% assign items_per_page = 9 %}
-                {% assign all_products = site.products | sort: 'title' %}
-                
-                {% if page.category %}
-                    {% assign filtered = all_products | where: 'category', page.category %}
-                {% else %}
-                    {% assign filtered = all_products %}
-                {% endif %}
+        <!-- Top Category Navigation Pills (Mobile-Friendly Horizontally Scrollable Bar) -->
+        <div class="mb-8 overflow-x-auto no-scrollbar py-2 flex items-center gap-2 sm:gap-3">
+            <button onclick="filterProducts('all')" class="filter-pill active px-5 py-2.5 rounded-2xl border border-slate-200 bg-white text-slate-800 text-xs font-extrabold shadow-sm hover:border-blue-300">
+                🏷️ Semua Produk
+            </button>
+            <button onclick="filterProducts('kanopi')" class="filter-pill px-5 py-2.5 rounded-2xl border border-slate-200 bg-white text-slate-800 text-xs font-extrabold shadow-sm hover:border-blue-300">
+                🏠 Kanopi Minimalis
+            </button>
+            <button onclick="filterProducts('pagar')" class="filter-pill px-5 py-2.5 rounded-2xl border border-slate-200 bg-white text-slate-800 text-xs font-extrabold shadow-sm hover:border-blue-300">
+                🛡️ Pagar Laser Cutting
+            </button>
+            <button onclick="filterProducts('tangga')" class="filter-pill px-5 py-2.5 rounded-2xl border border-slate-200 bg-white text-slate-800 text-xs font-extrabold shadow-sm hover:border-blue-300">
+                🪜 Tangga Mezzanine
+            </button>
+            <button onclick="filterProducts('railing')" class="filter-pill px-5 py-2.5 rounded-2xl border border-slate-200 bg-white text-slate-800 text-xs font-extrabold shadow-sm hover:border-blue-300">
+                🚧 Railing Balkon
+            </button>
+            <button onclick="filterProducts('pintu')" class="filter-pill px-5 py-2.5 rounded-2xl border border-slate-200 bg-white text-slate-800 text-xs font-extrabold shadow-sm hover:border-blue-300">
+                🚪 Pintu Besi & Garasi
+            </button>
+        </div>
 
-                {% assign total_items = filtered | size %}
-                {% assign current_page = page.page | default: 1 %}
-                {% assign start_index = current_page | minus: 1 | times: items_per_page %}
-                {% assign end_index = start_index | plus: items_per_page %}
+        <!-- Main Content Grid with Sidebar -->
+        <div class="grid lg:grid-cols-4 gap-8 items-start">
+            
+            <!-- Sidebar (Hidden on Mobile to Prioritize Fast Loading, Visible on Desktop) -->
+            <div class="hidden lg:block lg:col-span-1">
+                {% include sidebar.html %}
+            </div>
+
+            <!-- Products Main Grid & Pagination -->
+            <div class="lg:col-span-3">
                 
-                {% for p in filtered %}
-                    {% if forloop.index > start_index and forloop.index <= end_index %}
-                    <div class="product-card rounded-2xl overflow-hidden bg-white border border-slate-100 hover:border-indigo-300 hover:shadow-lg transition-all">
-                        <div class="relative aspect-square overflow-hidden bg-slate-100 group">
-                            {% if p.image %}
-                                <img src="{{ p.image | relative_url }}" alt="{{ p.title }}" class="w-full h-full object-cover group-hover:scale-105 transition-transform" />
-                            {% else %}
-                                <div class="w-full h-full flex items-center justify-center text-slate-300 text-center px-4">
-                                    <span>Foto {{ p.title }}</span>
-                                </div>
-                            {% endif %}
-                            <span class="absolute top-3 right-3 bg-indigo-600 text-white text-[10px] font-bold px-3 py-1 rounded-full uppercase tracking-widest">{{ p.category }}</span>
+                <!-- Product Grid Anchor -->
+                <div id="product-grid-top"></div>
+
+                <!-- Products Grid -->
+                <div id="products-grid" class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6 mb-12">
+                    {% assign all_products = site.products | sort: 'title' %}
+                    {% for p in all_products %}
+                    {% assign cat_slug = p.category | default: 'kanopi' | downcase %}
+                    <div class="product-item product-card rounded-3xl overflow-hidden bg-white border border-slate-200/80 shadow-sm hover:shadow-xl transition-all duration-300 flex flex-col justify-between group" data-category="{{ cat_slug }}">
+                        <div>
+                            <!-- Product Image Container -->
+                            <div class="relative aspect-square overflow-hidden bg-slate-100">
+                                {% if p.image %}
+                                    <img src="{{ p.image | relative_url }}" alt="{{ p.title }}" loading="lazy" decoding="async" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" />
+                                {% else %}
+                                    <div class="w-full h-full flex items-center justify-center text-slate-400 font-extrabold text-xs px-4 bg-slate-100">
+                                        <span>[Foto {{ p.title }}]</span>
+                                    </div>
+                                {% endif %}
+                                <span class="absolute top-3 right-3 bg-slate-900/90 backdrop-blur text-amber-400 text-[10px] font-black px-3 py-1 rounded-lg border border-amber-400/30 uppercase tracking-widest">
+                                    {{ p.category | default: 'SNI APPROVED' }}
+                                </span>
+                            </div>
+
+                            <!-- Product Info -->
+                            <div class="p-5">
+                                <h3 class="font-extrabold text-sm mb-2 text-slate-900 line-clamp-2 leading-snug">
+                                    <a href="{{ p.url }}" class="hover:text-blue-600 transition">{{ p.title }}</a>
+                                </h3>
+                                {% if p.price %}
+                                    <p class="text-amber-600 text-sm font-black mb-3">{{ p.price }}</p>
+                                {% else %}
+                                    <p class="text-amber-600 text-sm font-black mb-3">Rp 450.000 / m²</p>
+                                {% endif %}
+                                {% if p.description %}
+                                    <p class="text-slate-500 text-xs mb-4 line-clamp-2 leading-relaxed">{{ p.description }}</p>
+                                {% endif %}
+                            </div>
                         </div>
-                        <div class="p-4">
-                            <h3 class="font-bold text-sm mb-1 text-slate-900 line-clamp-2">{{ p.title }}</h3>
-                            {% if p.price %}<p class="text-indigo-600 text-xs font-bold mb-2">{{ p.price }}</p>{% endif %}
-                            <p class="text-slate-500 text-xs mb-4 line-clamp-2">{{ p.description }}</p>
-                            <a href="{{ p.url }}" class="inline-block text-[10px] font-black uppercase text-slate-400 hover:text-indigo-600 transition">Lihat Detail →</a>
+
+                        <!-- Card Action CTAs -->
+                        <div class="px-5 pb-5 pt-0 flex items-center gap-2">
+                            <a href="https://wa.me/6282318993732?text=Halo%20Kharisma%20Steel,%20saya%20tertarik%20dengan%20produk%20{{ p.title | url_encode }}." target="_blank" rel="noopener" class="btn-primary flex-1 text-center py-2.5 rounded-xl font-black text-[11px] uppercase tracking-wider flex items-center justify-center gap-1 shadow-md">
+                                <span>💬 Order WA</span>
+                            </a>
+                            <a href="{{ p.url }}" class="px-3 py-2.5 rounded-xl bg-slate-100 hover:bg-slate-200 text-slate-800 text-[11px] font-extrabold transition">
+                                Detail &rarr;
+                            </a>
                         </div>
                     </div>
-                    {% endif %}
-                {% endfor %}
+                    {% endfor %}
+                </div>
+
+                <!-- Status & Navigation Pagination Bar (Tombol Nav) -->
+                <div class="bg-white p-6 rounded-3xl border border-slate-200/80 shadow-sm flex flex-col sm:flex-row items-center justify-between gap-4">
+                    <div id="pagination-info" class="text-xs font-bold text-slate-500 text-center sm:text-left">
+                        Menampilkan <span id="showing-count" class="text-slate-900 font-extrabold">0</span> produk
+                    </div>
+
+                    <!-- Pagination Nav Buttons -->
+                    <div id="pagination-buttons" class="flex items-center gap-2 flex-wrap justify-center">
+                        <!-- Buttons rendered via JS for instant speed -->
+                    </div>
+                </div>
+
             </div>
-
-            <!-- Pagination -->
-            {% assign total_pages = total_items | divided_by: items_per_page | ceil %}
-            {% if total_pages > 1 %}
-            <div class="flex justify-center items-center gap-2 mt-12 border-t pt-8">
-                {% if current_page > 1 %}
-                    <a href="{% if current_page == 2 %}{{ page.url }}{% else %}{{ page.url }}?page={{ current_page | minus: 1 }}{% endif %}" class="px-4 py-2 rounded-lg border border-slate-200 hover:bg-indigo-50 hover:border-indigo-300 text-sm font-semibold">← Sebelumnya</a>
-                {% endif %}
-
-                {% for i in (1..total_pages) %}
-                    {% if i == current_page %}
-                        <span class="px-4 py-2 rounded-lg bg-indigo-600 text-white text-sm font-semibold">{{ i }}</span>
-                    {% else %}
-                        <a href="{% if i == 1 %}{{ page.url }}{% else %}{{ page.url }}?page={{ i }}{% endif %}" class="px-4 py-2 rounded-lg border border-slate-200 hover:bg-indigo-50 text-sm font-semibold">{{ i }}</a>
-                    {% endif %}
-                {% endfor %}
-
-                {% if current_page < total_pages %}
-                    <a href="{{ page.url }}?page={{ current_page | plus: 1 }}" class="px-4 py-2 rounded-lg border border-slate-200 hover:bg-indigo-50 hover:border-indigo-300 text-sm font-semibold">Selanjutnya →</a>
-                {% endif %}
-            </div>
-            {% endif %}
         </div>
     </div>
 </div>
+
+<!-- Fast Client-Side Filtering & Instant Pagination Script -->
+<script>
+    var itemsPerPage = 12;
+    var currentPage = 1;
+    var currentCategory = 'all';
+
+    function getQueryParam(param) {
+        var urlParams = new URLSearchParams(window.location.search);
+        return urlParams.get(param);
+    }
+
+    function filterProducts(cat, pageNum) {
+        currentCategory = cat || 'all';
+        currentPage = pageNum || 1;
+
+        // Update active filter pill buttons
+        var pills = document.querySelectorAll('.filter-pill');
+        pills.forEach(function(pill) {
+            pill.classList.remove('active');
+            var pillText = pill.innerText.toLowerCase();
+            if (currentCategory === 'all' && pillText.includes('semua')) {
+                pill.classList.add('active');
+            } else if (currentCategory !== 'all' && pillText.includes(currentCategory)) {
+                pill.classList.add('active');
+            }
+        });
+
+        // Filter product items
+        var items = document.querySelectorAll('.product-item');
+        var matchingItems = [];
+
+        items.forEach(function(item) {
+            var itemCategory = (item.getAttribute('data-category') || '').toLowerCase();
+            if (currentCategory === 'all' || itemCategory.includes(currentCategory)) {
+                matchingItems.push(item);
+            } else {
+                item.style.display = 'none';
+            }
+        });
+
+        // Calculate pagination slices
+        var totalMatching = matchingItems.length;
+        var totalPages = Math.ceil(totalMatching / itemsPerPage) || 1;
+        if (currentPage > totalPages) currentPage = totalPages;
+
+        var startIndex = (currentPage - 1) * itemsPerPage;
+        var endIndex = startIndex + itemsPerPage;
+
+        matchingItems.forEach(function(item, idx) {
+            if (idx >= startIndex && idx < endIndex) {
+                item.style.display = 'flex';
+            } else {
+                item.style.display = 'none';
+            }
+        });
+
+        // Update info text
+        var showingStart = totalMatching > 0 ? startIndex + 1 : 0;
+        var showingEnd = Math.min(endIndex, totalMatching);
+        var infoElem = document.getElementById('showing-count');
+        if (infoElem) {
+            infoElem.innerText = showingStart + '-' + showingEnd + ' dari ' + totalMatching;
+        }
+
+        // Render Pagination Navigation Buttons (Tombol Nav)
+        renderPaginationNav(totalPages);
+    }
+
+    function renderPaginationNav(totalPages) {
+        var container = document.getElementById('pagination-buttons');
+        if (!container) return;
+
+        if (totalPages <= 1) {
+            container.innerHTML = '';
+            return;
+        }
+
+        var html = '';
+
+        // Previous Button
+        if (currentPage > 1) {
+            html += '<button onclick="goToPage(' + (currentPage - 1) + ')" class="px-3.5 py-2 rounded-xl border border-slate-200 hover:bg-blue-50 hover:border-blue-300 text-xs font-extrabold text-slate-800 transition">← Prev</button>';
+        } else {
+            html += '<button disabled class="px-3.5 py-2 rounded-xl border border-slate-100 text-slate-300 text-xs font-extrabold cursor-not-allowed">← Prev</button>';
+        }
+
+        // Page Number Buttons
+        for (var i = 1; i <= totalPages; i++) {
+            if (i === currentPage) {
+                html += '<span class="px-3.5 py-2 rounded-xl bg-blue-600 text-white text-xs font-black shadow-md shadow-blue-500/20">' + i + '</span>';
+            } else if (i === 1 || i === totalPages || (i >= currentPage - 1 && i <= currentPage + 1)) {
+                html += '<button onclick="goToPage(' + i + ')" class="px-3.5 py-2 rounded-xl border border-slate-200 hover:bg-blue-50 text-xs font-extrabold text-slate-800 transition">' + i + '</button>';
+            } else if (i === 2 || i === totalPages - 1) {
+                html += '<span class="px-2 text-slate-400 font-bold text-xs">...</span>';
+            }
+        }
+
+        // Next Button
+        if (currentPage < totalPages) {
+            html += '<button onclick="goToPage(' + (currentPage + 1) + ')" class="px-3.5 py-2 rounded-xl border border-slate-200 hover:bg-blue-50 hover:border-blue-300 text-xs font-extrabold text-slate-800 transition">Next →</button>';
+        } else {
+            html += '<button disabled class="px-3.5 py-2 rounded-xl border border-slate-100 text-slate-300 text-xs font-extrabold cursor-not-allowed">Next →</button>';
+        }
+
+        container.innerHTML = html;
+    }
+
+    function goToPage(pageNum) {
+        filterProducts(currentCategory, pageNum);
+        var target = document.getElementById('product-grid-top');
+        if (target) {
+            target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        }
+    }
+
+    document.addEventListener('DOMContentLoaded', function() {
+        var cat = getQueryParam('category') || 'all';
+        var page = parseInt(getQueryParam('page')) || 1;
+        filterProducts(cat, page);
+    });
+</script>
+

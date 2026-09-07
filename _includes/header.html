@@ -1,37 +1,74 @@
-<nav class="fixed w-full z-50 glass-nav">
-    <div class="max-w-7xl mx-auto px-6 h-16 flex items-center justify-between">
-        <div class="flex items-center gap-2">
-            <a href="{{ '/' | relative_url }}" class="flex items-center gap-2">
-                <div class="w-8 h-8 zan-bg-indigo rounded-lg flex items-center justify-center text-white font-bold">K</div>
-                <span class="font-extrabold tracking-tighter text-lg uppercase">Kharisma<span class="zan-indigo text-sm ml-0.5">Steel</span></span>
+<nav class="fixed w-full z-50 glass-nav transition-all duration-300">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 h-20 flex items-center justify-between">
+        <!-- Logo -->
+        <div class="flex items-center gap-3">
+            <a href="{{ '/' | relative_url }}" class="flex items-center gap-3 group">
+                <div class="w-11 h-11 bg-gradient-to-br from-blue-600 via-sky-500 to-amber-500 rounded-xl flex items-center justify-center text-white font-black text-2xl shadow-lg shadow-blue-500/25 group-hover:scale-105 transition-transform duration-300">
+                    ⚡
+                </div>
+                <div class="flex flex-col">
+                    <div class="flex items-center gap-1.5">
+                        <span class="font-black tracking-tight text-xl sm:text-2xl uppercase text-slate-900 leading-none">KHARISMA<span class="text-blue-600">STEEL</span></span>
+                    </div>
+                    <span class="text-[10px] font-extrabold text-slate-500 uppercase tracking-widest mt-1 flex items-center gap-1">
+                        <span class="w-1.5 h-1.5 rounded-full bg-emerald-500 animate-pulse"></span>
+                        Parongpong, Bandung
+                    </span>
+                </div>
             </a>
         </div>
 
-        <div class="hidden md:flex items-center gap-8 text-[13px] font-semibold text-slate-500 uppercase tracking-wider">
-            <a href="{{ '/products/' | relative_url }}" class="hover:text-indigo-600">Layanan & Produk</a>
-            <a href="{{ '/tentang/' | relative_url }}" class="hover:text-indigo-600">Tentang</a>
-            <a href="{{ '/cara-pemesanan/' | relative_url }}" class="hover:text-indigo-600">Cara Pemesanan</a>
-             <a href="{{ '/garansi/' | relative_url }}" class="hover:text-indigo-600">Kebijakan Garansi & Pengembalian</a>
-            <a href="#blog" class="hover:text-indigo-600">Blog</a>
-            <a href="https://wa.me/6281320087982" class="zan-bg-indigo text-white px-5 py-2 rounded-full">Hubungi</a>
+        <!-- Desktop Navigation -->
+        <div class="hidden lg:flex items-center gap-8 text-xs font-black text-slate-700 uppercase tracking-wider">
+            <a href="{{ '/products/' | relative_url }}" class="hover:text-blue-600 transition-colors py-2 relative group">
+                Layanan & Produk
+                <span class="absolute bottom-0 left-0 w-0 h-0.5 bg-blue-600 group-hover:w-full transition-all duration-300"></span>
+            </a>
+            <a href="{{ '/tentang/' | relative_url }}" class="hover:text-blue-600 transition-colors py-2 relative group">
+                Tentang
+                <span class="absolute bottom-0 left-0 w-0 h-0.5 bg-blue-600 group-hover:w-full transition-all duration-300"></span>
+            </a>
+            <a href="{{ '/cara-pemesanan/' | relative_url }}" class="hover:text-blue-600 transition-colors py-2 relative group">
+                Cara Pemesanan
+                <span class="absolute bottom-0 left-0 w-0 h-0.5 bg-blue-600 group-hover:w-full transition-all duration-300"></span>
+            </a>
+            <a href="{{ '/garansi/' | relative_url }}" class="hover:text-blue-600 transition-colors py-2 relative group">
+                Garansi
+                <span class="absolute bottom-0 left-0 w-0 h-0.5 bg-blue-600 group-hover:w-full transition-all duration-300"></span>
+            </a>
+            <a href="#blog" class="hover:text-blue-600 transition-colors py-2 relative group">
+                Blog
+                <span class="absolute bottom-0 left-0 w-0 h-0.5 bg-blue-600 group-hover:w-full transition-all duration-300"></span>
+            </a>
+            
+            <a href="https://wa.me/6282318993732?text=Halo%20Kharisma%20Steel,%20saya%20ingin%20konsultasi%20kanopi/pagar." target="_blank" rel="noopener" class="btn-primary px-6 py-3 rounded-xl font-extrabold text-xs uppercase tracking-wider flex items-center gap-2">
+                <span class="w-2 h-2 rounded-full bg-emerald-400 animate-ping"></span>
+                <span>💬 082318993732</span>
+            </a>
         </div>
 
         <!-- Mobile menu button -->
-        <div class="md:hidden">
-            <button id="mobile-menu-toggle" aria-label="Toggle menu" class="p-2 rounded-md bg-white/60">
+        <div class="lg:hidden flex items-center gap-2">
+            <a href="https://wa.me/6282318993732" target="_blank" rel="noopener" class="btn-primary px-3 py-2 rounded-lg text-xs font-bold flex items-center gap-1">
+                <span>💬 WA</span>
+            </a>
+            <button id="mobile-menu-toggle" aria-label="Toggle menu" class="p-2.5 rounded-xl bg-slate-100 border border-slate-200 text-slate-700 hover:bg-slate-200 transition">
                 <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"></path></svg>
             </button>
         </div>
     </div>
 
     <!-- Mobile nav (hidden by default) -->
-    <div id="mobile-menu" class="hidden md:hidden bg-white/95 border-t">
-        <div class="px-6 py-4 flex flex-col gap-3">
-                <a href="{{ '/products/' | relative_url }}" class="font-semibold">Layanan & Produk</a>
-                <a href="{{ '/tentang/' | relative_url }}" class="font-semibold">Tentang</a>
-                <a href="{{ '/cara-pemesanan/' | relative_url }}" class="font-semibold">Cara Pemesanan</a>
-                <a href="#blog" class="font-semibold">Blog</a>
-               <a href="{{ '/garansi/' | relative_url }}" class="hover:text-indigo-600">Kebijakan Garansi & Pengembalian</a>
+    <div id="mobile-menu" class="hidden lg:hidden bg-white/98 backdrop-blur-2xl border-t border-slate-100 shadow-2xl">
+        <div class="px-6 py-6 flex flex-col gap-4 text-sm font-extrabold text-slate-800 uppercase tracking-wide">
+            <a href="{{ '/products/' | relative_url }}" class="hover:text-blue-600 transition">Layanan & Produk</a>
+            <a href="{{ '/tentang/' | relative_url }}" class="hover:text-blue-600 transition">Tentang Kami</a>
+            <a href="{{ '/cara-pemesanan/' | relative_url }}" class="hover:text-blue-600 transition">Cara Pemesanan</a>
+            <a href="{{ '/garansi/' | relative_url }}" class="hover:text-blue-600 transition">Kebijakan Garansi</a>
+            <a href="#blog" class="hover:text-blue-600 transition">Blog & Tips</a>
+            <a href="https://wa.me/6282318993732" target="_blank" rel="noopener" class="btn-primary text-white text-center py-4 rounded-xl font-black uppercase text-xs tracking-wider shadow-lg flex items-center justify-center gap-2">
+                <span>💬 Chat WhatsApp 082318993732</span>
+            </a>
         </div>
     </div>
 

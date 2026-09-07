@@ -85,82 +85,110 @@ body {
   scroll-behavior: smooth;
 }
 
-/* Color palette upgrade - Bold & Professional */
+/* Color palette upgrade - Bold Industrial Steel & Professional Blue */
 :root {
-  --primary-color: #3b82f6;        /* Bright Blue */
-  --primary-dark: #1e40af;         /* Deep Blue */
-  --secondary-color: #f97316;      /* Vibrant Orange */
-  --accent-color: #06b6d4;         /* Cyan */
+  --primary-color: #2563eb;        /* Vibrant Royal Blue */
+  --primary-dark: #1e3a8a;         /* Deep Navy Steel */
+  --secondary-color: #f59e0b;      /* Amber / Metallic Gold */
+  --accent-color: #0284c7;         /* Sky Blue */
   --success-color: #10b981;        /* Green */
-  --danger-color: #ef4444;         /* Red */
-  --dark-bg: #0f172a;              /* Dark Navy */
-  --light-bg: #f8fafc;             /* Light Gray */
+  --dark-bg: #0f172a;              /* Slate 900 */
+  --light-bg: #f8fafc;             /* Slate 50 */
 }
 
 .zan-indigo { 
-  color: #3b82f6;                  /* Changed from #6366f1 to brighter blue */
+  color: #2563eb;
 }
 
 .zan-bg-indigo { 
-  background-color: #3b82f6;       /* Changed from #6366f1 to brighter blue */
+  background-color: #2563eb;
 }
 
 /* Enhanced product card with bolder colors */
 .product-card {
-  border: 2px solid #e5e7eb;       /* Bolder border */
-  transition: all 0.3s ease;
+  border: 1px solid #e2e8f0;
+  transition: all 0.35s cubic-bezier(0.4, 0, 0.2, 1);
   background: #ffffff;
 }
 
 .product-card:hover {
-  border-color: #3b82f6;           /* Bright blue on hover */
-  box-shadow: 0 15px 40px -10px rgba(59, 130, 246, 0.25);
-  transform: translateY(-4px);
+  border-color: #3b82f6;
+  box-shadow: 0 20px 40px -15px rgba(37, 99, 235, 0.2);
+  transform: translateY(-6px);
 }
 
 /* Promo banner with stronger gradient */
 .promo-banner {
-  background: linear-gradient(135deg, #3b82f6 0%, #f97316 100%);
-  box-shadow: 0 20px 50px -10px rgba(59, 130, 246, 0.3);
+  background: linear-gradient(135deg, #0f172a 0%, #1e3a8a 50%, #0284c7 100%);
+  box-shadow: 0 25px 50px -12px rgba(15, 23, 42, 0.35);
+  border: 1px solid rgba(255, 255, 255, 0.15);
 }
 
-/* Primary button with bold color */
+/* Primary button with bold color & glow */
 .btn-primary {
-  background-color: #3b82f6;       /* Changed from #1e293b to bright blue */
+  background: linear-gradient(135deg, #2563eb 0%, #1d4ed8 100%);
   color: white;
-  transition: all 0.3s;
-  font-weight: 700;
-  border: 2px solid #3b82f6;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  font-weight: 800;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  box-shadow: 0 10px 25px -5px rgba(37, 99, 235, 0.4);
 }
 
 .btn-primary:hover {
-  background-color: #1e40af;       /* Dark blue on hover */
-  box-shadow: 0 10px 30px -5px rgba(59, 130, 246, 0.4);
-  transform: translateY(-2px);
+  background: linear-gradient(135deg, #1d4ed8 0%, #1e40af 100%);
+  box-shadow: 0 15px 35px -5px rgba(37, 99, 235, 0.6);
+  transform: translateY(-3px);
+}
+
+/* Golden Accent Button */
+.btn-amber {
+  background: linear-gradient(135deg, #f59e0b 0%, #d97706 100%);
+  color: #0f172a;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  font-weight: 900;
+  box-shadow: 0 10px 25px -5px rgba(245, 158, 11, 0.4);
+}
+
+.btn-amber:hover {
+  background: linear-gradient(135deg, #d97706 0%, #b45309 100%);
+  color: white;
+  box-shadow: 0 15px 35px -5px rgba(245, 158, 11, 0.6);
+  transform: translateY(-3px);
 }
 
 /* Link colors - more vibrant */
 .prose a {
-  color: #3b82f6;                  /* Bright blue */
+  color: #2563eb;
   font-weight: 600;
 }
 
 .prose a:hover {
-  color: #1e40af;                  /* Deep blue */
-  text-decoration-color: #f97316;  /* Orange underline */
+  color: #1e3a8a;
+  text-decoration-color: #f59e0b;
 }
 
 /* Header with glass effect and color */
 .glass-nav {
-  background: rgba(255, 255, 255, 0.95);
-  backdrop-filter: blur(10px);
-  border-bottom: 2px solid #e5e7eb;
-  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);
+  background: rgba(255, 255, 255, 0.92);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border-bottom: 1px solid rgba(226, 232, 240, 0.8);
+  box-shadow: 0 4px 20px -2px rgba(15, 23, 42, 0.05);
 }
 
-/* Hero gradient with bold colors */
+/* Hero background glow */
 .hero-gradient {
-  background: linear-gradient(135deg, #f8fafc 0%, #e0f2fe 50%, #dbeafe 100%);
+  background: radial-gradient(circle at 50% 0%, rgba(56, 189, 248, 0.15) 0%, rgba(37, 99, 235, 0.05) 40%, rgba(248, 250, 252, 1) 100%);
+}
+
+.hero-glow-blob {
+  position: absolute;
+  width: 500px;
+  height: 500px;
+  background: radial-gradient(circle, rgba(56, 189, 248, 0.25) 0%, rgba(37, 99, 235, 0.1) 50%, transparent 70%);
+  filter: blur(60px);
+  z-index: 0;
+  pointer-events: none;
 }
 
 /* Product price highlighting */
@@ -528,3 +556,26 @@ div[itemprop="articleBody"] img,
   max-width: 100%;
   vertical-align: middle;
 }
+
+/* Hide scrollbar for horizontal category filter pill bar */
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+/* Category Filter Pills & Active State */
+.filter-pill {
+  transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+  white-space: nowrap;
+}
+
+.filter-pill.active {
+  background-color: #2563eb !important;
+  color: #ffffff !important;
+  border-color: #2563eb !important;
+  box-shadow: 0 10px 20px -5px rgba(37, 99, 235, 0.4);
+}
+
