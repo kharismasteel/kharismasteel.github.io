@@ -1,1 +1,18 @@
-﻿_site
+# Jekyll output
+_site
+.jekyll-cache
+.jekyll-metadata
+
+# Ignore scripts directory completely
+scripts/
+
+# Environment & credentials safety
+.env
+.env.*
+google-credentials*.json
+progress.json
+product-progress.json
+*.log
+
+# Node dependencies
+node_modules/

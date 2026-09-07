@@ -1,4 +1,3 @@
-
 <!-- Site build date: {{ "now" | date: "%FT%T%z" }} -->
 <head>
   <meta charset="utf-8">
@@ -6,16 +5,75 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <!-- SEO meta tags -->
-  <title>{{ page.title | default: site.title }} - {{ site.title }}</title>
+  <!-- SEO Meta Tags -->
+  <title>{% if page.title and page.title != "" %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }} - Bengkel Las Parongpong Bandung{% endif %}</title>
   <meta name="description" content="{{ page.description | default: site.description }}">
-  {% if page.keywords %}<meta name="keywords" content="{{ page.keywords }}">{% endif %}
+  <meta name="keywords" content="{{ page.keywords | default: 'bengkel las bandung, bengkel las parongpong, kharisma steel, kanopi minimalis bandung, pagar laser cutting bandung, tangga besi mezzanine, konstruksi baja sni bandung, harga kanopi per meter bandung, jasa las murah bandung' }}">
+
+  <!-- Canonical URL -->
+  <link rel="canonical" href="{{ page.url | absolute_url }}">
 
   <!-- Copyright & Protection -->
-  <meta name="copyright" content="© 2024 Kharisma Steel. All rights reserved.">
+  <meta name="copyright" content="© 2026 Kharisma Steel. All rights reserved.">
   <meta name="author" content="Kharisma Steel Bandung">
-  <meta name="robots" content="index, follow, noarchive">
+  <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
   <meta name="googlebot" content="index, follow">
+
+  <!-- Open Graph / Facebook Meta Tags -->
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Kharisma Steel Bandung">
+  <meta property="og:title" content="{% if page.title and page.title != '' %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }} - Bengkel Las Parongpong Bandung{% endif %}">
+  <meta property="og:description" content="{{ page.description | default: site.description }}">
+  <meta property="og:url" content="{{ page.url | absolute_url }}">
+  <meta property="og:image" content="{% if page.image %}{{ page.image | absolute_url }}{% else %}https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAm_wKvHBL4lQJF-lwjUexclOPT0brwGLbfa83EntB9HgmEBByHhZpkFAo1Tll81LgizHizyvrBKCFpbENQOrM1w2PC-GlSgGcgtDi0qdzCfNl-22shGvc2lLtCuIzZDCR1C93WheaFVM/s1600/3.jpg{% endif %}">
+  <meta property="og:locale" content="id_ID">
+
+  <!-- Twitter Card Meta Tags -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="{% if page.title and page.title != '' %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }} - Bengkel Las Parongpong Bandung{% endif %}">
+  <meta name="twitter:description" content="{{ page.description | default: site.description }}">
+  <meta name="twitter:image" content="{% if page.image %}{{ page.image | absolute_url }}{% else %}https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAm_wKvHBL4lQJF-lwjUexclOPT0brwGLbfa83EntB9HgmEBByHhZpkFAo1Tll81LgizHizyvrBKCFpbENQOrM1w2PC-GlSgGcgtDi0qdzCfNl-22shGvc2lLtCuIzZDCR1C93WheaFVM/s1600/3.jpg{% endif %}">
+
+  <!-- Schema.org LocalBusiness JSON-LD for Google Local Pack & Google Search -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": ["HomeAndConstructionBusiness", "WeldService"],
+    "name": "Bengkel Las Kharisma Steel Parongpong Bandung",
+    "alternateName": "Kharisma Steel",
+    "url": "https://laskharisma.com",
+    "logo": "https://laskharisma.com/favicon.ico",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAm_wKvHBL4lQJF-lwjUexclOPT0brwGLbfa83EntB9HgmEBByHhZpkFAo1Tll81LgizHizyvrBKCFpbENQOrM1w2PC-GlSgGcgtDi0qdzCfNl-22shGvc2lLtCuIzZDCR1C93WheaFVM/s1600/3.jpg",
+    "description": "Bengkel las profesional di Parongpong, Bandung. Melayani jasa pembuatan kanopi minimalis, pagar besi laser cutting, tangga, konstruksi baja SNI. Bergaransi & free survey.",
+    "telephone": "082318993732",
+    "priceRange": "Rp 450.000 - Rp 1.500.000",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Jl. Cigugur Girang No. RT 03 RW 07, Cigugur Girang",
+      "addressLocality": "Parongpong",
+      "addressRegion": "Jawa Barat",
+      "postalCode": "40559",
+      "addressCountry": "ID"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": -6.83082289,
+      "longitude": 107.5804157
+    },
+    "hasMap": "https://maps.app.goo.gl/wJ5J4s9v7k2X8r1M9",
+    "openingHoursSpecification": {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": [
+        "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"
+      ],
+      "opens": "08:00",
+      "closes": "18:00"
+    },
+    "areaServed": [
+      "Parongpong", "Bandung", "Bandung Barat", "Lembang", "Cimahi", "Padalarang", "Soreang", "Cileunyi"
+    ]
+  }
+  </script>
 
   <!-- Favicon -->
   <link rel="icon" type="image/x-icon" href="/favicon.ico">
@@ -38,7 +96,7 @@
 
   <!-- Tailwind + Google Fonts used by homepage -->
   <script src="https://cdn.tailwindcss.com"></script>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
 
   <script type="text/javascript" src="/js/highlightjs/highlight.min.js"></script>
 
