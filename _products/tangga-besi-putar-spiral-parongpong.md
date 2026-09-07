@@ -6,7 +6,7 @@ category: "Tangga"
 image: "/assets/images/products/tangga-besi-putar-spiral-parongpong-yellowframe.jpg"
 description: "Tangga besi putar spiral custom untuk rumah dan usaha di Parongpong, Bandung. Kokoh, hemat ruang, rapi, dan dikerjakan Kharisma Steel."
 keywords: "tangga besi spiral, tangga putar Parongpong, tangga besi Bandung, tangga custom, bengkel las, Kharisma Steel"
-date: 2026-09-11 08:00:00 +0700
+date: 2026-09-07 08:00:00 +0700
 ---
 
 # Tangga Besi Putar Spiral Parongpong

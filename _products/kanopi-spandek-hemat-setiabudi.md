@@ -6,7 +6,7 @@ category: "Kanopi"
 image: "/assets/images/products/kanopi-spandek-hemat-setiabudi-yellowframe.jpg"
 description: "Kanopi spandek per m² untuk rumah dan usaha di Setiabudi, Bandung. Rangka kokoh, pemasangan rapi, dan layanan survei dari Kharisma Steel."
 keywords: "kanopi spandek Setiabudi, kanopi murah Bandung, kanopi per meter, kanopi rumah, bengkel las Parongpong, Kharisma Steel"
-date: 2026-09-09 08:00:00 +0700
+date: 2026-09-07 08:00:00 +0700
 ---
 
 # Kanopi Spandek Hemat Setiabudi

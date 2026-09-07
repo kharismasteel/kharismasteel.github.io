@@ -6,7 +6,7 @@ category: "Pagar"
 image: "/assets/images/products/pagar-stainless-304-cimahi-yellowframe.jpg"
 description: "Pagar Stainless Steel 304 anti karat untuk rumah dan bisnis di Cimahi. Desain rapi, kuat, mudah dirawat, dikerjakan tim Kharisma Steel."
 keywords: "pagar stainless Cimahi, stainless steel 304, pagar anti karat, pagar minimalis, bengkel las Cimahi, Kharisma Steel"
-date: 2026-09-08 08:00:00 +0700
+date: 2026-09-07 08:00:00 +0700
 ---
 
 # Pagar Stainless Steel 304 Anti Karat Cimahi

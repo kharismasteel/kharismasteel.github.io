@@ -6,7 +6,7 @@ category: "Pintu"
 image: "/assets/images/products/teralis-besi-pintu-double-door-lembang-yellowframe.jpg"
 description: "Teralis besi pintu double door bergaya modern untuk rumah dan ruko di Lembang, dibuat kokoh, rapi, aman, serta dapat dipesan custom."
 keywords: "teralis besi Lembang, pintu double door, teralis pintu Bandung, bengkel las Parongpong, pintu besi custom, Kharisma Steel"
-date: 2026-09-10 08:00:00 +0700
+date: 2026-09-07 08:00:00 +0700
 ---
 
 # Teralis Besi Pintu Double Door Lembang

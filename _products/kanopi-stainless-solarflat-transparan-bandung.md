@@ -6,7 +6,7 @@ category: "Kanopi"
 image: "/assets/images/products/kanopi-stainless-solarflat-transparan-bandung-yellowframe.jpg"
 description: "Kanopi stainless Solarflat transparan untuk area Bandung dan sekitarnya. Tampil modern, kuat, tahan cuaca, dengan survei dan pemasangan profesional."
 keywords: "kanopi stainless Bandung, kanopi Solarflat transparan, kanopi modern, kanopi Parongpong, kanopi tahan cuaca, Kharisma Steel"
-date: 2026-09-10 08:00:00 +0700
+date: 2026-09-07 08:00:00 +0700
 ---
 
 # Kanopi Stainless Solarflat Transparan Bandung

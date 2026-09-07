@@ -6,7 +6,7 @@ category: "Kanopi"
 image: "/assets/images/products/kanopi-alderon-rs-single-layer-dago-yellowframe.jpg"
 description: "Pesan kanopi Alderon RS single layer di Dago Bandung, rangka kuat dan rapi dari Kharisma Steel, cocok untuk rumah, carport, dan teras."
 keywords: "kanopi Alderon Bandung, kanopi Dago, kanopi Alderon RS, kanopi baja ringan, kanopi carport, Kharisma Steel"
-date: 2026-09-09 08:00:00 +0700
+date: 2026-09-07 08:00:00 +0700
 ---
 
 # Kanopi Alderon RS Single Layer Dago Bandung

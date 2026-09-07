@@ -6,7 +6,7 @@ category: "Pagar"
 image: "/assets/images/products/pagar-tempa-klasik-mewah-lembang-yellowframe.jpg"
 description: "Pagar tempa klasik mewah untuk rumah di Lembang dan Bandung, dibuat kokoh, elegan, tahan cuaca, bergaransi, serta siap ukur dan pasang."
 keywords: "pagar tempa Lembang, pagar klasik Bandung, pagar besi mewah, pagar rumah elegan, pagar las Parongpong, pagar custom Bandung"
-date: 2026-09-08 08:00:00 +0700
+date: 2026-09-07 08:00:00 +0700
 ---
 
 # Pagar Tempa Klasik Mewah Lembang

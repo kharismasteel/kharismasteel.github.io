@@ -6,7 +6,7 @@ category: "Kanopi"
 image: "/assets/images/products/kanopi-spandek-per-meter-setiabudi-yellowframe.jpg"
 description: "Pesan kanopi spandek per meter termurah di Setiabudi dari Kharisma Steel. Rangka kokoh, pengerjaan rapi, survei Bandung dan sekitarnya."
 keywords: "kanopi spandek Setiabudi, kanopi spandek murah, kanopi per meter, kanopi Bandung, kanopi baja ringan, Kharisma Steel"
-date: 2026-09-09 08:00:00 +0700
+date: 2026-09-07 08:00:00 +0700
 ---
 
 # Kanopi Spandek Per Meter Termurah Setiabudi

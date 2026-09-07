@@ -6,7 +6,7 @@ category: "Tangga"
 image: "/assets/images/products/tangga-besi-spiral-parongpong-yellowframe.jpg"
 description: "Pesan tangga besi putar spiral custom di Parongpong, Bandung. Kokoh, rapi, hemat ruang, dan siap dipasang untuk rumah, toko, serta usaha."
 keywords: "tangga besi spiral, tangga putar Bandung, tangga besi Parongpong, tangga custom, bengkel las Bandung, tangga hemat ruang"
-date: 2026-09-11 08:00:00 +0700
+date: 2026-09-07 08:00:00 +0700
 ---
 
 # Tangga Besi Putar Spiral Parongpong

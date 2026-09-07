@@ -6,7 +6,7 @@ category: "Kanopi"
 image: "/assets/images/products/kanopi-stainless-kaca-padalarang-yellowframe.jpg"
 description: "Kanopi stainless kaca tempered Padalarang tampil modern, kuat, dan elegan untuk rumah, ruko, serta kantor dengan pengerjaan rapi Kharisma Steel."
 keywords: "kanopi stainless Padalarang, kanopi kaca tempered, kanopi minimalis Bandung Barat, jasa kanopi Bandung, kanopi ruko, Kharisma Steel"
-date: 2026-09-08 08:00:00 +0700
+date: 2026-09-07 08:00:00 +0700
 ---
 
 # Kanopi Stainless Kaca Tempered Padalarang

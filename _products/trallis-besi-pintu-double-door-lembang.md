@@ -6,7 +6,7 @@ category: "Pintu"
 image: "/assets/images/products/trallis-besi-pintu-double-door-lembang-yellowframe.jpg"
 description: "Pesan trallis besi pintu double door Lembang dengan desain kokoh, rapi, dan custom. Melayani Bandung Raya, survei serta pemasangan profesional."
 keywords: "trallis besi Lembang, pintu double door, tralis pintu besi, pintu besi Bandung, bengkel las Parongpong, Kharisma Steel"
-date: 2026-09-10 08:00:00 +0700
+date: 2026-09-07 08:00:00 +0700
 ---
 
 # Trallis Besi Pintu Double Door Lembang

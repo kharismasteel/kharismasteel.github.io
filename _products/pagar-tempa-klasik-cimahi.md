@@ -6,7 +6,7 @@ category: "Pagar"
 image: "/assets/images/products/pagar-tempa-klasik-cimahi-yellowframe.jpg"
 description: "Pagar tempa ornament klasik untuk rumah dan properti di Cimahi, dibuat kokoh, elegan, custom ukuran, finishing rapi oleh Kharisma Steel."
 keywords: "pagar tempa Cimahi, pagar ornament klasik, pagar besi tempa, pagar minimalis klasik, bengkel las Cimahi, Kharisma Steel"
-date: 2026-09-10 08:00:00 +0700
+date: 2026-09-07 08:00:00 +0700
 ---
 
 # Pagar Tempa Ornament Klasik Cimahi

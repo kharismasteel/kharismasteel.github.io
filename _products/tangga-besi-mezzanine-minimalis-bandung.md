@@ -6,7 +6,7 @@ category: "Tangga"
 image: "/assets/images/products/tangga-besi-mezzanine-minimalis-bandung-yellowframe.jpg"
 description: "Tangga besi mezzanine minimalis custom untuk rumah, toko, dan gudang di Bandung. Kokoh, rapi, aman, bergaransi, dan siap pasang."
 keywords: "tangga besi mezzanine, tangga minimalis Bandung, tangga besi custom, tangga gudang, tangga rumah, Kharisma Steel"
-date: 2026-09-08 08:00:00 +0700
+date: 2026-09-07 08:00:00 +0700
 ---
 
 # Tangga Besi Mezzanine Minimalis Bandung

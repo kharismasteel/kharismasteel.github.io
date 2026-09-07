@@ -6,7 +6,7 @@ category: "Pagar"
 image: "/assets/images/products/pagar-minimalis-modern-soreang-yellowframe.jpg"
 description: "Pagar minimalis modern Soreang Bandung custom besi dan finishing rapi untuk rumah, kantor, dan properti. Konsultasi gratis di Kharisma Steel."
 keywords: "pagar minimalis Soreang, pagar besi Bandung, pagar modern Bandung Barat, pagar rumah custom, bengkel las Parongpong, Kharisma Steel"
-date: 2026-09-09 08:00:00 +0700
+date: 2026-09-07 08:00:00 +0700
 ---
 
 # Pagar Minimalis Modern Soreang Bandung

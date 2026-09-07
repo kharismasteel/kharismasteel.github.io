@@ -6,7 +6,7 @@ category: "Kanopi"
 image: "/assets/images/products/kanopi-alderon-kordoba-twinwall-bandung-barat-yellowframe.jpg"
 description: "Kanopi Alderon Kordoba Twinwall kuat dan sejuk untuk rumah Bandung Barat. Pesan rangka besi custom Kharisma Steel dengan harga transparan."
 keywords: "kanopi Alderon Bandung Barat, kanopi Kordoba, kanopi twinwall, kanopi besi custom, bengkel las Parongpong, kanopi rumah Bandung"
-date: 2026-09-11 08:00:00 +0700
+date: 2026-09-07 08:00:00 +0700
 ---
 
 # Kanopi Alderon Kordoba Twinwall Bandung Barat

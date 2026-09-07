@@ -6,7 +6,7 @@ category: "Tangga"
 image: "/assets/images/products/tangga-besi-rebah-kayu-setiabudi-yellowframe.jpg"
 description: "Tangga besi rebah dengan pijakan kayu kokoh dan rapi untuk rumah, toko, serta area usaha di Setiabudi dan Bandung. Konsultasi gratis."
 keywords: "tangga besi rebah, tangga pijakan kayu, tangga Setiabudi, bengkel las Bandung, tangga custom, Kharisma Steel"
-date: 2026-09-12 08:00:00 +0700
+date: 2026-09-07 08:00:00 +0700
 ---
 
 # Tangga Besi Rebah Pijakan Kayu Setiabudi

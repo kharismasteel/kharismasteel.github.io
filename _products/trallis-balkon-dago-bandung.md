@@ -6,7 +6,7 @@ category: "Railing"
 image: "/assets/images/products/trallis-balkon-dago-bandung-yellowframe.jpg"
 description: "Trallis besi pengaman balkon Dago Bandung dengan desain kuat dan rapi. Cocok untuk rumah, vila, dan proyek komersial, dikerjakan profesional."
 keywords: "trallis balkon Dago, pengaman balkon besi, railing balkon Bandung, trallis besi minimalis, railing balkon kuat, bengkel las Bandung"
-date: 2026-09-12 08:00:00 +0700
+date: 2026-09-07 08:00:00 +0700
 ---
 
 # Trallis Besi Pengaman Balkon Dago Bandung

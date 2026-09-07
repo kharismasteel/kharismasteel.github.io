@@ -6,7 +6,7 @@ category: "Pagar"
 image: "/assets/images/products/pagar-lisplang-minimalis-modern-yellowframe.jpg"
 description: "Pagar besi lisplang minimalis modern dari Kharisma Steel Parongpong, rapi dan kokoh untuk rumah, kantor, serta properti di Bandung."
 keywords: "pagar besi minimalis, pagar lisplang, pagar modern Bandung, pagar besi Parongpong, bengkel las Bandung, pagar rumah minimalis"
-date: 2026-09-10 08:00:00 +0700
+date: 2026-09-07 08:00:00 +0700
 ---
 
 # Pagar Besi Lisplang Minimalis Modern Parongpong

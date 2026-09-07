@@ -6,7 +6,7 @@ category: "Mezzanine"
 image: "/assets/images/products/kanopi-mezzanine-wf-parongpong-yellowframe.jpg"
 description: "Kanopi mezzanine besi WF kuat dan rapi dari Kharisma Steel Parongpong, melayani Bandung dan sekitarnya dengan survei serta pemasangan profesional."
 keywords: "kanopi mezzanine, besi WF Parongpong, mezzanine Bandung, konstruksi baja ringan, bengkel las Bandung, Kharisma Steel"
-date: 2026-09-09 08:00:00 +0700
+date: 2026-09-07 08:00:00 +0700
 ---
 
 # Kanopi Mezzanine Besi WF Parongpong

@@ -6,7 +6,7 @@ category: "Pagar"
 image: "/assets/images/products/pagar-stainless-minimalis-rumah-mewah-yellowframe.jpg"
 description: "Pagar stainless minimalis untuk rumah mewah di Padalarang, dikerjakan rapi oleh Kharisma Steel dengan material kokoh, elegan, dan tahan cuaca."
 keywords: "pagar stainless Padalarang, pagar minimalis rumah mewah, pagar stainless Bandung, pagar stainless steel, bengkel las Padalarang, Kharisma Steel"
-date: 2026-09-10 08:00:00 +0700
+date: 2026-09-07 08:00:00 +0700
 ---
 
 # Pagar Stainless Minimalis untuk Rumah Mewah Padalarang

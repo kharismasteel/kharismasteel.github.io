@@ -6,7 +6,7 @@ category: "Pagar"
 image: "/assets/images/products/pagar-galvanis-minimalis-cileunyi-yellowframe.jpg"
 description: "Pagar besi minimalis galvanis untuk rumah di Cileunyi dan Bandung. Tahan cuaca, rapi, kokoh, dengan survei dan pemasangan profesional."
 keywords: "pagar besi galvanis Cileunyi, pagar minimalis Bandung, pagar rumah galvanis, jasa pagar besi, pagar kuat tahan karat, Kharisma Steel"
-date: 2026-09-09 08:00:00 +0700
+date: 2026-09-07 08:00:00 +0700
 ---
 
 # Pagar Besi Minimalis Galvanis Cileunyi

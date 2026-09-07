@@ -6,7 +6,7 @@ category: "Pagar"
 image: "/assets/images/products/pagar-tempa-ornament-klasik-cimahi-yellowframe.jpg"
 description: "Pagar tempa ornament klasik Cimahi dengan desain elegan, material kokoh, pengerjaan rapi, dan layanan pemasangan Kharisma Steel untuk area Bandung."
 keywords: "pagar tempa Cimahi, pagar ornament klasik, pagar besi tempa, pagar minimalis klasik, bengkel las Bandung, Kharisma Steel"
-date: 2026-09-10 08:00:00 +0700
+date: 2026-09-07 08:00:00 +0700
 ---
 
 # Pagar Tempa Ornament Klasik Cimahi

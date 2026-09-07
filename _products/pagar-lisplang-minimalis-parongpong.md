@@ -6,7 +6,7 @@ category: "Pagar"
 image: "/assets/images/products/pagar-lisplang-minimalis-parongpong-yellowframe.jpg"
 description: "Pagar besi lisplang minimalis modern Parongpong, kokoh dan rapi untuk rumah di Bandung. Konsultasi desain, estimasi, dan pemasangan."
 keywords: "pagar besi minimalis, pagar lisplang, pagar modern Bandung, pagar besi Parongpong, bengkel las Bandung, pagar rumah"
-date: 2026-09-10 08:00:00 +0700
+date: 2026-09-07 08:00:00 +0700
 ---
 
 # Pagar Besi Lisplang Minimalis Modern Parongpong

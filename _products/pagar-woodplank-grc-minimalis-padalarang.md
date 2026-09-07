@@ -6,7 +6,7 @@ category: "Pagar"
 image: "/assets/images/products/pagar-woodplank-grc-minimalis-padalarang-yellowframe.jpg"
 description: "Pagar besi minimalis woodplank GRC Padalarang, kokoh, modern, dan rapi. Dikerjakan Kharisma Steel untuk rumah, kantor, dan properti."
 keywords: "pagar besi minimalis, pagar woodplank GRC, pagar Padalarang, pagar Bandung Barat, bengkel las Bandung, Kharisma Steel"
-date: 2026-09-11 08:00:00 +0700
+date: 2026-09-07 08:00:00 +0700
 ---
 
 # Pagar Besi Minimalis Woodplank GRC Padalarang

@@ -6,7 +6,7 @@ category: "Kanopi"
 image: "/assets/images/products/kanopi-alderon-rs-dago-bandung-yellowframe.jpg"
 description: "Kanopi Alderon RS single layer untuk rumah dan usaha di Dago Bandung. Kokoh, teduh, rapi, bergaransi, dan dikerjakan tukang las berpengalaman."
 keywords: "kanopi Alderon Dago, kanopi Bandung, kanopi RS single layer, jasa kanopi Parongpong, bengkel las Bandung, kanopi rumah"
-date: 2026-09-09 08:00:00 +0700
+date: 2026-09-07 08:00:00 +0700
 ---
 
 # Kanopi Alderon RS Single Layer Dago Bandung

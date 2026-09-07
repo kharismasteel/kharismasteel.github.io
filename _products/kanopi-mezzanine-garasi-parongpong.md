@@ -6,7 +6,7 @@ category: "Mezzanine"
 image: "/assets/images/products/kanopi-mezzanine-garasi-parongpong-yellowframe.jpg"
 description: "Kanopi mezzanine garasi mobil Parongpong Bandung dengan rangka kokoh, lantai aman, desain rapi, dan pengerjaan profesional untuk rumah modern."
 keywords: "kanopi mezzanine, mezzanine garasi mobil, kanopi garasi Bandung, bengkel las Parongpong, konstruksi baja ringan, Kharisma Steel"
-date: 2026-09-12 08:00:00 +0700
+date: 2026-09-07 08:00:00 +0700
 ---
 
 # Kanopi Mezzanine Garasi Mobil Parongpong Bandung

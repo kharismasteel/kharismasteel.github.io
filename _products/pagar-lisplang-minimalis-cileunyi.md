@@ -6,7 +6,7 @@ category: "Pagar"
 image: "/assets/images/products/pagar-lisplang-minimalis-cileunyi-yellowframe.jpg"
 description: "Pagar besi lisplang minimalis anti karat untuk rumah di Cileunyi dan Bandung. Desain rapi, kokoh, custom, dikerjakan Kharisma Steel."
 keywords: "pagar besi Cileunyi, pagar lisplang minimalis, pagar anti karat, pagar custom Bandung, bengkel las Cileunyi, Kharisma Steel"
-date: 2026-09-12 08:00:00 +0700
+date: 2026-09-07 08:00:00 +0700
 ---
 
 # Pagar Besi Lisplang Minimalis Anti Karat Cileunyi

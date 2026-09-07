@@ -6,7 +6,7 @@ category: "Kanopi"
 image: "/assets/images/products/kanopi-spandek-carport-soreang-yellowframe.jpg"
 description: "Kanopi spandek carport Soreang dari Kharisma Steel, kokoh, rapi, dan tahan cuaca. Melayani pemasangan Bandung, Bandung Barat, hingga sekitarnya."
 keywords: "kanopi spandek Soreang, atap carport Soreang, kanopi baja ringan, jasa kanopi Bandung, kanopi Kharisma Steel, kanopi rumah"
-date: 2026-09-12 08:00:00 +0700
+date: 2026-09-07 08:00:00 +0700
 ---
 
 # Kanopi Spandek Atap Carport Soreang

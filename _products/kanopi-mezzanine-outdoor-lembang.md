@@ -6,7 +6,7 @@ category: "Mezzanine"
 image: "/assets/images/products/kanopi-mezzanine-outdoor-lembang-yellowframe.jpg"
 description: "Kanopi mezzanine outdoor besi hollow untuk Lembang dan Bandung, kokoh, rapi, tahan cuaca, dikerjakan Kharisma Steel dengan estimasi transparan."
 keywords: "kanopi mezzanine Lembang, mezzanine besi hollow, kanopi outdoor Bandung, konstruksi besi Parongpong, bengkel las Bandung, Kharisma Steel"
-date: 2026-09-11 08:00:00 +0700
+date: 2026-09-07 08:00:00 +0700
 ---
 
 # Kanopi Mezzanine Outdoor Besi Hollow Lembang

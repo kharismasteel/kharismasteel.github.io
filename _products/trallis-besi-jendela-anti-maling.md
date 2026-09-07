@@ -6,7 +6,7 @@ category: "Pagar"
 image: "/assets/images/products/trallis-besi-jendela-anti-maling-yellowframe.jpg"
 description: "Pesan trallis besi jendela anti maling di Parongpong, Bandung. Desain kuat, rapi, custom dari Kharisma Steel dengan harga hemat."
 keywords: "trallis besi jendela, trallis anti maling, teralis jendela Bandung, bengkel las Parongpong, teralis custom, Kharisma Steel"
-date: 2026-09-08 08:00:00 +0700
+date: 2026-09-07 08:00:00 +0700
 ---
 
 # Trallis Besi Jendela Anti Maling Parongpong
