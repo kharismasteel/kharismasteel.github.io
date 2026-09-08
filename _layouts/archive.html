@@ -25,7 +25,8 @@ layout: default
     <!-- Blog Grid -->
     <div class="grid grid-cols-1 gap-6 mb-12">
       {% assign posts_per_page = 7 %}
-      {% assign offset = page.paginate.page | default: 1 | minus: 1 | times: posts_per_page %}
+      {% assign current_page = page.page_number | default: page.paginate.page | default: 1 %}
+      {% assign offset = current_page | minus: 1 | times: posts_per_page %}
       
       {% for post in site.posts limit: posts_per_page offset: offset %}
       <article class="group border border-slate-200/80 rounded-3xl bg-white overflow-hidden hover:shadow-xl hover:border-blue-300 transition duration-300">
@@ -85,8 +86,12 @@ layout: default
     <div class="bg-white p-6 rounded-3xl border border-slate-200/80 shadow-sm flex flex-col sm:flex-row justify-between items-center gap-4">
       {% assign total_posts = site.posts | size %}
       {% assign posts_per_page = 7 %}
-      {% assign total_pages = total_posts | divided_by: posts_per_page | ceil %}
-      {% assign current_page = page.paginate.page | default: 1 %}
+      {% assign remainder = total_posts | modulo: posts_per_page %}
+      {% assign total_pages = total_posts | divided_by: posts_per_page %}
+      {% if remainder > 0 %}
+        {% assign total_pages = total_pages | plus: 1 %}
+      {% endif %}
+      {% assign current_page = page.page_number | default: page.paginate.page | default: 1 %}
       
       <!-- Previous Page -->
       {% if current_page > 1 %}
