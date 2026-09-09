@@ -39,6 +39,14 @@ collections:
     permalink: /products/:name/
 
 future: false
+timezone: Asia/Bangkok
+
+exclude:
+  - node_modules
+  - package.json
+  - package-lock.json
+  - tailwind.config.js
+  - css/tailwind-input.css
 
 
 titles_from_headings:

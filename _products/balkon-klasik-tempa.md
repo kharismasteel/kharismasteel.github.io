@@ -7,8 +7,6 @@ description: Railing balkon tempa dengan ornamen klasik, cocok untuk rumah berga
 keywords: balkon tempa, railing, balkon klasik, ornamen besi tempa, desain balkon tradisional, pagar tangga besi, kerajinan besi bandung, railing custom bandung
 ---
 
-# Balkon Klasik Tempa: Sentuhan Artistik & Kokoh untuk Rumah Anda
-
 Railing atau pagar balkon bukan hanya sekadar pengaman, melainkan elemen estetika yang menentukan karakter fasad rumah. **Balkon Klasik Tempa** menghadirkan keanggunan abadi melalui ornamen besi tempa yang detail, cocok untuk menonjolkan kemewahan dan keunikan pada rumah bergaya tradisional, klasik, atau Mediterranean.
 
 ## Keunggulan Balkon Tempa Klasik

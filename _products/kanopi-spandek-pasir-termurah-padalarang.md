@@ -8,8 +8,6 @@ description: "Kanopi spandek pasir termurah di Padalarang untuk carport dan tera
 keywords: "kanopi spandek pasir Padalarang, kanopi murah Bandung Barat, kanopi carport, kanopi teras, jasa las Padalarang, Kharisma Steel"
 ---
 
-# Kanopi Spandek Pasir Termurah di Padalarang
-
 Butuh kanopi hemat untuk carport, teras, garasi, atau area usaha? Kharisma Steel menyediakan kanopi spandek pasir dengan rangka besi yang kokoh, tampilan modern, dan pengerjaan rapi untuk wilayah Padalarang serta sekitarnya.
 
 ![Kanopi Spandek Pasir Termurah Padalarang](/assets/images/products/kanopi-spandek-pasir-termurah-padalarang-yellowframe.jpg)

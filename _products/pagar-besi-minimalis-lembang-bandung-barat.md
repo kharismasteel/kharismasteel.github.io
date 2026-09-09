@@ -8,8 +8,6 @@ description: "Pesan pagar besi minimalis di Lembang dan Bandung Barat. Desain ra
 keywords: "pagar besi minimalis Lembang, pagar besi Bandung Barat, pagar minimalis Bandung, jasa las Lembang, pagar rumah modern, Kharisma Steel"
 ---
 
-# Pagar Besi Minimalis Lembang Bandung Barat
-
 Percantik dan tingkatkan keamanan rumah dengan pagar besi minimalis dari Kharisma Steel Parongpong Bandung. Kami melayani pembuatan pagar custom untuk area Lembang, Bandung Barat, Bandung, Cimahi, Padalarang, Soreang, Cileunyi, dan sekitarnya dengan desain rapi serta pemasangan profesional.
 
 ![Pagar Besi Minimalis Lembang Bandung Barat](/assets/images/products/pagar-besi-minimalis-lembang-bandung-barat-yellowframe.jpg)

@@ -9,8 +9,6 @@ keywords: "kanopi stainless Padalarang, kanopi kaca tempered, kanopi minimalis B
 date: 2026-09-07 08:00:00 +0700
 ---
 
-# Kanopi Stainless Kaca Tempered Padalarang
-
 Percantik area teras, carport, ruko, atau kantor dengan kanopi stainless kaca tempered bergaya modern. Kharisma Steel Parongpong mengerjakan kanopi secara rapi, kokoh, dan menyesuaikan ukuran bangunan di Padalarang serta sekitarnya.
 
 ![Kanopi Stainless Kaca Padalarang](/assets/images/products/kanopi-stainless-kaca-padalarang-yellowframe.jpg)

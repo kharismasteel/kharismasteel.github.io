@@ -7,8 +7,6 @@ description: Butuh kanopi yang kuat, rapi, dan tahan lama? Kami spesialis kanopi
 keywords: kanopi, kanopi bandung, kanopi minimalis, jasa kanopi, kanopi modern, kanopi rumah, kanopi cafe, kanopi baja ringan, harga kanopi
 ---
 
-# Kanopi Bandung: Solusi Perlindungan dan Estetika Terbaik
-
 Tidak ada yang lebih nyaman daripada memiliki area luar rumah atau usaha yang terlindung dari panas terik dan hujan. **Kanopi Bandung** dari layanan kami hadir sebagai jawaban yang tepat. Kami tidak hanya menyediakan struktur pelindung, tetapi juga menambahkan nilai estetika dengan desain minimalis dan modern yang bisa disesuaikan dengan selera Anda.
 
 ## Apa yang Kami Tawarkan?
@@ -63,5 +61,5 @@ Jangan biarkan cuaca mengganggu aktivitas di rumah atau bisnis Anda. Dapatkan ka
 
 **Kharisma Steel - Spesialis Kanopi Bandung**  
 📍 Bandung & Sekitarnya  
-📱 **WhatsApp:** [0813-2008-7982](https://wa.me/6281320087982)  
-☎️ **Telepon:** 0813-2008-7982
+📱 **WhatsApp:** [082318993732](https://wa.me/6282318993732)
+☎️ **Telepon:** 082318993732

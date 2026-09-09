@@ -15,7 +15,7 @@ image: /assets/images/posts/railing-balkon-minimalis-bandung-yang-aman-dan-awet_
   <figcaption style="color:#64748b;font-size:0.9em;margin-top:0.5rem;font-weight:500;">Contoh railing balkon minimalis dengan garis geometris yang cocok untuk rumah modern di Bandung.</figcaption>
 </figure>
 
-<h1>Railing Balkon Minimalis Bandung yang Aman dan Awet</h1>
+
 <p>Railing balkon minimalis Bandung yang aman tidak cukup hanya terlihat rapi. Konstruksinya harus memiliki ukuran proporsional, sambungan las kuat, angkur sesuai kondisi beton, finishing tahan cuaca, serta jarak bilah yang tidak membahayakan anak. Untuk mendapatkan hasil seperti itu, pilih bengkel las yang mampu melakukan survei, menghitung kebutuhan material, menjelaskan spesifikasi secara transparan, dan memberikan garansi pekerjaan.</p>
 <p>Kharisma Steel Parongpong Bandung melayani pembuatan railing balkon besi dan stainless untuk rumah, vila, ruko, kost, hingga bangunan komersial. Konsultasi dapat dilakukan sebelum produksi agar desain tidak hanya mengikuti tren, tetapi juga sesuai struktur bangunan dan kebutuhan penghuni.</p>
 

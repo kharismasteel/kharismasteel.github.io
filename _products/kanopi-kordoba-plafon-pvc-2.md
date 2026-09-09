@@ -7,8 +7,6 @@ description: Varian premium Kanopi Kordoba dengan struktur rangka hollow double 
 keywords: kanopi kordoba, plafon pvc, kanopi bandung, kanopi murah, kanopi kuat, model kanopi, kanopi teras, rangka hollow, atap alderon
 ---
 
-# Kanopi Kordoba Varian 2: Kekuatan Ekstra & Finishing Interior yang Sempurna
-
 **Kanopi Kordoba Varian 2** merupakan pengembangan dari model standar, dirancang khusus untuk Anda yang mengutamakan **kekuatan struktur jangka panjang** dan **kerapian finishing interior**. Dengan rangka hollow double dan sistem plafon PVC yang presisi, kanopi ini memberikan perlindungan ganda dan nilai estetika yang lebih tinggi untuk teras, carport, atau area komersial Anda di Bandung.
 
 ## Keunggulan Utama Varian 2

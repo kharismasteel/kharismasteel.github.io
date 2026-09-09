@@ -9,8 +9,6 @@ keywords: "kanopi mezzanine Lembang, mezzanine besi hollow, kanopi outdoor Bandu
 date: 2026-09-07 08:00:00 +0700
 ---
 
-# Kanopi Mezzanine Outdoor Besi Hollow Lembang
-
 Maksimalkan ruang luar dengan Kanopi Mezzanine Outdoor Besi Hollow dari Kharisma Steel Parongpong Bandung. Cocok untuk teras, area usaha, balkon, gudang, maupun ruang tambahan yang membutuhkan perlindungan dari panas dan hujan. Kami membantu proses pengukuran, desain, fabrikasi, hingga pemasangan secara rapi dan efisien.
 
 ![Kanopi Mezzanine Outdoor Lembang](/assets/images/products/kanopi-mezzanine-outdoor-lembang-yellowframe.jpg)

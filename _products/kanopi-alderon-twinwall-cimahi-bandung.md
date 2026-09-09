@@ -8,8 +8,6 @@ description: "Kanopi Alderon Twinwall kuat, sejuk, dan rapi untuk rumah serta us
 keywords: "kanopi Alderon Cimahi, kanopi Twinwall Bandung, kanopi baja ringan, kanopi rumah, jasa kanopi, Kharisma Steel"
 ---
 
-# Kanopi Alderon Twinwall Cimahi Bandung
-
 Percantik dan lindungi area rumah, garasi, teras, maupun tempat usaha dengan kanopi Alderon Twinwall dari Kharisma Steel. Material berongga ini membantu meredam panas dan suara hujan, dengan rangka besi atau baja ringan yang dibuat rapi sesuai ukuran lokasi.
 
 ![Kanopi Alderon Twinwall Cimahi Bandung](/assets/images/products/kanopi-alderon-twinwall-cimahi-bandung-yellowframe.jpg)

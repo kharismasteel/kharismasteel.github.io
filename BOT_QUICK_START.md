@@ -180,7 +180,7 @@ createArticle({
 
 ### External:
 - Site URL: `https://kharismasteel.github.io`
-- WhatsApp: `https://wa.me/6281320087982`
+- WhatsApp: `https://wa.me/6282318993732`
 
 ---
 

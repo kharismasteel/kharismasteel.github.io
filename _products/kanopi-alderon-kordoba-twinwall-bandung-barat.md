@@ -9,8 +9,6 @@ keywords: "kanopi Alderon Bandung Barat, kanopi Kordoba, kanopi twinwall, kanopi
 date: 2026-09-07 08:00:00 +0700
 ---
 
-# Kanopi Alderon Kordoba Twinwall Bandung Barat
-
 Hadirkan area teduh yang rapi, modern, dan tahan cuaca dengan Kanopi Alderon Kordoba Twinwall dari Kharisma Steel Parongpong. Menggunakan rangka besi custom dan atap Alderon twinwall, kanopi ini cocok untuk carport, teras, balkon, maupun area usaha di Bandung Barat dan sekitarnya.
 
 ![Kanopi Alderon Kordoba Twinwall Bandung Barat](/assets/images/products/kanopi-alderon-kordoba-twinwall-bandung-barat-yellowframe.jpg)

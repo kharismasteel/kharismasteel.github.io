@@ -7,8 +7,6 @@ description: Tangga besi minimalis dengan opsi kombinasi kayu untuk anak tangga;
 keywords: tangga besi, tangga minimalis, railing, tangga putar besi, tangga lipat besi, desain tangga modern, tangga hemat ruang, tangga custom bandung
 ---
 
-# Tangga Besi Minimalis: Solusi Cerdas untuk Hunian Modern yang Terbatas Ruang
-
 Tangga besi minimalis hadir sebagai jawaban atas tantangan ruang di rumah-rumah kontemporer. Dengan desain yang ramping, kuat, dan estetis, tangga ini tidak hanya berfungsi sebagai akses antar lantai, tetapi juga menjadi elemen dekoratif yang memperkuat kesan modern dan terbuka dalam hunian Anda.
 
 ## Mengapa Memilih Tangga Besi Minimalis?

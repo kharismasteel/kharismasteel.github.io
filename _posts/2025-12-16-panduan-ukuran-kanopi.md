@@ -15,8 +15,6 @@ tags:
 keywords: "ukuran kanopi, carport, teras, kanopi berapa meter, standar kanopi"
 ---
 
-# Panduan Lengkap Menentukan Ukuran Kanopi Rumah yang Sempurna
-
 Salah satu pertanyaan yang sering kami terima adalah: "Berapa ukuran kanopi yang tepat untuk rumah saya?" Jawabannya tidak bisa one-size-fits-all karena tergantung pada fungsi, area yang tersedia, dan kebutuhan spesifik.
 
 Artikel ini akan memberikan guidelines detail untuk membantu Anda menentukan ukuran optimal.

@@ -9,8 +9,6 @@ keywords: "tangga besi mezzanine, tangga minimalis Bandung, tangga besi custom, 
 date: 2026-09-07 08:00:00 +0700
 ---
 
-# Tangga Besi Mezzanine Minimalis Bandung
-
 Kharisma Steel menghadirkan tangga besi mezzanine minimalis custom untuk rumah, toko, kantor, gudang, dan ruang usaha di Bandung serta sekitarnya. Desain dibuat fungsional, kokoh, rapi, dan menyesuaikan ukuran mezzanine maupun kondisi ruang.
 
 ![Tangga Besi Mezzanine Minimalis Bandung](/assets/images/products/tangga-besi-mezzanine-minimalis-bandung-yellowframe.jpg)

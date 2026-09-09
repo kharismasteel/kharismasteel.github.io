@@ -7,8 +7,6 @@ description: Solusi lengkap kanopi modern dengan plafon PVC rapi untuk teras & c
 keywords: kanopi, kanopi kordoba, plafon pvc, kanopi bandung, kanopi murah bandung, kanopi teras, kanopi carport, kanopi minimalis, atap alderon
 ---
 
-# Kanopi Kordoba dengan Plafon PVC: Solusi Cerdas & Rapi untuk Rumah Anda di Bandung
-
 Mencari kanopi yang **tidak hanya kuat menahan panas dan hujan, tetapi juga memberikan tampilan interior yang rapi**? Kanopi Kordoba dengan Plafon PVC adalah jawaban tepat. Sebagai salah satu model **kanopi ekonomis terpopuler di Bandung**, produk ini menawarkan solusi lengkap untuk melindungi teras atau carport Anda dengan finishing **langit-langit yang bersih, rata, dan tahan lama**.
 
 ## Keunggulan Utama Kanopi Kordoba

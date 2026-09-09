@@ -16,8 +16,6 @@ tags:
 keywords: "material kanopi, alderon, spandek, kaca, stainless steel, kanopi terbaik"
 ---
 
-# Memilih Material Atap Kanopi yang Tepat: Panduan Komprehensif 2026
-
 Memilih material kanopi adalah salah satu keputusan paling penting dalam proyek rumah Anda. Material yang salah bisa berakibat biaya maintenance tinggi, durabilitas pendek, atau tampilan yang tidak memuaskan.
 
 Artikel ini akan membandingkan empat material kanopi paling populer dengan detail lengkap.

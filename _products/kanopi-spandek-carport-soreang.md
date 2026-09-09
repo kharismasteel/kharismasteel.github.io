@@ -9,8 +9,6 @@ keywords: "kanopi spandek Soreang, atap carport Soreang, kanopi baja ringan, jas
 date: 2026-09-07 08:00:00 +0700
 ---
 
-# Kanopi Spandek Atap Carport Soreang
-
 Lindungi kendaraan dan area depan rumah dengan kanopi spandek carport dari Kharisma Steel. Kami mengerjakan kanopi dengan rangka besi atau baja ringan, desain rapi, serta pemasangan profesional untuk wilayah Soreang, Bandung, Bandung Barat, Cimahi, Lembang, Padalarang, Cileunyi, dan sekitarnya.
 
 ![Kanopi Spandek Carport Soreang](/assets/images/products/kanopi-spandek-carport-soreang-yellowframe.jpg)

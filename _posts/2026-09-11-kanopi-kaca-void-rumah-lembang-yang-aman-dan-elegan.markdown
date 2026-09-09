@@ -15,7 +15,7 @@ image: /assets/images/posts/kanopi-kaca-void-rumah-lembang-yang-aman-dan-elegan_
   <figcaption style="color:#64748b;font-size:0.9em;margin-top:0.5rem;font-weight:500;">Kanopi kaca pada area void rumah membantu memasukkan cahaya alami sekaligus melindungi ruang dari hujan.</figcaption>
 </figure>
 
-<h1>Kanopi Kaca Void Rumah Lembang yang Aman dan Elegan</h1>
+
 <p>Untuk membuat kanopi kaca void rumah Lembang yang aman, fokus utama bukan hanya memilih kaca bening atau desain rangka yang terlihat ringan. Struktur harus dihitung berdasarkan bentang, titik tumpu, beban angin, kemiringan pembuangan air, serta jenis kaca pengaman yang digunakan. Kharisma Steel mengerjakan pembuatan dan pemasangan kanopi kaca void dengan rangka besi atau baja yang disesuaikan dengan kondisi rumah di Lembang, Parongpong, dan Bandung Barat.</p>
 <p>Estimasi harga termurah kanopi kaca void berada di kisaran <strong>Rp 1.850.000 / m²</strong>. Nilai tersebut merupakan perkiraan awal dan dapat berubah sesuai jenis kaca, ukuran bentang, desain rangka, akses pemasangan, ketinggian bangunan, serta kebutuhan talang dan waterproofing. Melalui layanan <strong>free survey dan konsultasi gratis</strong>, ukuran serta spesifikasi dapat dihitung lebih akurat sebelum pekerjaan dimulai.</p>
 

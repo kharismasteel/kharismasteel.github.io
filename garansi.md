@@ -159,7 +159,7 @@ permalink: /garansi/
 </div>
 <div class="ml-6">
 <h3 class="text-lg font-semibold text-slate-800 mb-2">Lapor Kerusakan</h3>
-<p class="text-slate-700">Hubungi kami via WhatsApp/telepon di <strong>0813-2008-7982</strong> atau email dengan menyertakan:</p>
+<p class="text-slate-700">Hubungi kami via WhatsApp/telepon di <strong>082318993732</strong> atau email dengan menyertakan:</p>
 <ul class="mt-2 text-slate-700 space-y-1">
 <li>• Nama dan nomor kontrak/invoice</li>
 <li>• Foto/video kerusakan dari berbagai angle</li>
@@ -206,12 +206,12 @@ permalink: /garansi/
 <p class="mb-6 max-w-2xl mx-auto">Tim support kami siap membantu menangani keluhan teknis dan proses klaim garansi dengan respon cepat.</p>
 
 <div class="flex flex-col sm:flex-row gap-4 justify-center">
-<a href="https://wa.me/6281320087982?text=Halo%20Kharisma%20Steel,%20saya%20ingin%20melaporkan%20masalah%20teknis/klaim%20garansi%20dengan%20detail:%20" 
+<a href="https://wa.me/6282318993732?text=Halo%20Kharisma%20Steel,%20saya%20ingin%20melaporkan%20masalah%20teknis/klaim%20garansi%20dengan%20detail:%20"
 target="_blank"
 class="inline-flex items-center justify-center bg-white text-blue-700 hover:bg-blue-50 font-bold py-3 px-6 rounded-lg text-lg transition-colors shadow-lg">
 <span class="mr-2">💬</span> Laporkan Masalah via WhatsApp
 </a>
-<a href="tel:+6281320087982" 
+<a href="tel:+6282318993732"
 class="inline-flex items-center justify-center bg-transparent border-2 border-white text-white hover:bg-white/10 font-bold py-3 px-6 rounded-lg text-lg transition-colors">
 <span class="mr-2">📞</span> Telepon Langsung
 </a>

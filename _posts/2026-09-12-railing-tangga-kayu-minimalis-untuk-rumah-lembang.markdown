@@ -15,7 +15,7 @@ image: /assets/images/posts/railing-tangga-kayu-minimalis-untuk-rumah-lembang_im
   <figcaption style="color:#64748b;font-size:0.9em;margin-top:0.5rem;font-weight:500;">Perpaduan kayu dan besi hitam menciptakan railing tangga minimalis yang hangat sekaligus kokoh.</figcaption>
 </figure>
 
-<h1>Railing Tangga Kayu Minimalis untuk Rumah Lembang</h1>
+
 <p>Railing tangga kayu minimalis di Lembang paling ideal dibuat dengan konstruksi besi yang kuat, pegangan kayu yang nyaman, serta finishing antikarat yang mampu menghadapi udara lembap dan perubahan suhu. Kombinasi ini memberikan tampilan hangat dari material kayu tanpa mengorbankan keamanan, kestabilan, dan ketahanan railing. Untuk estimasi awal, harga railing custom mulai sekitar <strong>Rp 650.000 / m²</strong>, sedangkan biaya akhir bergantung pada jenis besi, kayu, ukuran, pola, finishing, dan tingkat kesulitan pemasangan.</p>
 <p>Kharisma Steel Parongpong melayani pembuatan railing tangga custom untuk rumah, vila, guest house, kafe, dan bangunan komersial di Lembang serta Bandung Barat. Tim dapat membantu menyesuaikan desain railing dengan bentuk tangga lurus, L, U, maupun tangga putar. Konsultasi dan survei awal juga tersedia agar ukuran, titik angkur, serta detail sambungan dapat diperiksa sebelum produksi.</p>
 

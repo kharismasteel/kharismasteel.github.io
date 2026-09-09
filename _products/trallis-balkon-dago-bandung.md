@@ -9,8 +9,6 @@ keywords: "trallis balkon Dago, pengaman balkon besi, railing balkon Bandung, tr
 date: 2026-09-07 08:00:00 +0700
 ---
 
-# Trallis Besi Pengaman Balkon Dago Bandung
-
 Percantik sekaligus amankan balkon rumah, vila, atau bangunan komersial dengan trallis besi pengaman dari Kharisma Steel. Kami melayani pembuatan railing balkon custom di Dago, Bandung, Bandung Barat, Cimahi, Lembang, Padalarang, Soreang, Cileunyi, dan sekitarnya.
 
 ![Trallis Balkon Dago Bandung](/assets/images/products/trallis-balkon-dago-bandung-yellowframe.jpg)

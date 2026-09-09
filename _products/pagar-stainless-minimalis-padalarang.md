@@ -9,8 +9,6 @@ keywords: "pagar stainless Padalarang, pagar minimalis Bandung, pagar rumah mewa
 date: 2026-09-07 08:00:00 +0700
 ---
 
-# Pagar Stainless Minimalis Rumah Mewah Padalarang
-
 Percantik fasad rumah dengan pagar stainless minimalis yang elegan, kokoh, dan mudah dirawat. Kharisma Steel Parongpong melayani pembuatan pagar stainless custom untuk rumah mewah di Padalarang, Bandung Barat, dan sekitarnya dengan pengerjaan rapi sesuai kebutuhan lokasi.
 
 ![Pagar Stainless Minimalis Padalarang](/assets/images/products/pagar-stainless-minimalis-padalarang-yellowframe.jpg)

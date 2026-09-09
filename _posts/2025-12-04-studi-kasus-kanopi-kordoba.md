@@ -9,8 +9,6 @@ tags: [studi-kasus, kanopi, kordoba, plafon-pvc, bandung, parongpong]
 keywords: "kanopi kordoba bandung, kanopi minimalis, plafon pvc, pemasangan kanopi, rumah minimalis parongpong"
 ---
 
-# Studi Kasus Pemasangan Kanopi Kordoba di Parongpong Bandung
-
 
 Proyek ini menampilkan pemasangan kanopi Kordoba di salah satu rumah klien kami di area Parongpong, Bandung. Klien menginginkan solusi kanopi yang tidak hanya fungsional untuk melindungi dari cuaca tropis, tetapi juga menjadi elemen desain yang menyempurnakan tampilan rumah minimalis mereka.
 

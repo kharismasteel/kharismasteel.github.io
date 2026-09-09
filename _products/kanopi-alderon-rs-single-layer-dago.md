@@ -9,8 +9,6 @@ keywords: "kanopi Alderon Bandung, kanopi Dago, kanopi Alderon RS, kanopi baja r
 date: 2026-09-07 08:00:00 +0700
 ---
 
-# Kanopi Alderon RS Single Layer Dago Bandung
-
 Percantik sekaligus lindungi area rumah, carport, atau teras dengan Kanopi Alderon RS Single Layer dari Kharisma Steel. Kami melayani pembuatan dan pemasangan kanopi custom untuk wilayah Dago, Bandung, Bandung Barat, Cimahi, Lembang, Padalarang, Soreang, Cileunyi, dan sekitarnya.
 
 ![Kanopi Alderon RS Single Layer Dago](/assets/images/products/kanopi-alderon-rs-single-layer-dago-yellowframe.jpg)

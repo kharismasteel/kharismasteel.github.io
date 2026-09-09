@@ -15,7 +15,7 @@ image: /assets/images/posts/bengkel-las-kanopi-slide-otomatis-parongpong_img-1.w
   <figcaption style="color:#64748b;font-size:0.9em;margin-top:0.5rem;font-weight:500;">Contoh kanopi geser otomatis dengan rangka baja yang praktis untuk carport rumah.</figcaption>
 </figure>
 
-<h1>Bengkel Las Kanopi Slide Otomatis Parongpong</h1>
+
 <p>Jika Anda membutuhkan kanopi yang dapat dibuka dan ditutup sesuai cuaca, solusi paling aman adalah memesan desain custom dari <strong>bengkel las kanopi slide otomatis Parongpong</strong> yang memahami struktur baja, mekanisme rel, kelistrikan, dan kondisi bangunan setempat. Kharisma Steel membantu merancang kanopi geser untuk carport, teras, area komersial, balkon, hingga halaman belakang dengan ukuran, jenis atap, dan sistem kontrol yang disesuaikan kebutuhan.</p>
 <p>Kanopi slide otomatis tidak cukup dibuat seperti kanopi biasa lalu ditambahkan motor. Posisi rel, pembagian beban, kemiringan atap, kekuatan tiang, jalur kabel, sistem drainase, serta pengaman saat terjadi hambatan harus direncanakan sejak awal. Dengan perencanaan tersebut, kanopi dapat bergerak lebih stabil, tidak mudah miring, dan lebih nyaman digunakan setiap hari.</p>
 <h2>Kenapa kanopi geser cocok untuk rumah Parongpong?</h2>

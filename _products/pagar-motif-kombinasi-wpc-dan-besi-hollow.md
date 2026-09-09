@@ -7,8 +7,6 @@ description: Ingin pagar terlihat hangat alami kayu tapi kuat dan awet? Pagar ko
 keywords: pagar wpc, pagar kombinasi, pagar motif, pagar modern minimalis, pagar kayu sintetis, pagar besi hollow, pagar low maintenance
 ---
 
-# Pagar Kombinasi WPC & Besi Hollow: Solusi Pagar Modern yang Pintar
-
 Mencari pagar yang tidak hanya berfungsi sebagai pembatas tetapi juga menjadi elemen estetika yang memperindah tampilan depan rumah? **Pagar kombinasi WPC (Wood Plastic Composite) dan besi hollow** adalah pilihan cerdas yang menggabungkan keindahan visual kayu dengan kekuatan dan kepraktisan material modern.
 
 ## Apa Itu Pagar Kombinasi WPC & Besi Hollow?

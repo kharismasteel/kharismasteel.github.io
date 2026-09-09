@@ -8,8 +8,6 @@ categories: [kanopi, desain]
 tags: [kanopi, minimalis, bandung, tren 2026, desain rumah, kanopi modern]
 ---
 
-# Tren Desain Kanopi Minimalis Modern 2026 untuk Rumah di Bandung Raya
-
 Tahun 2026 membawa angin segar dalam dunia desain eksterior rumah, khususnya untuk elemen pelindung seperti kanopi. Di Bandung, tren kanopi telah bergeser dari sekadar fungsi praktis menjadi pernyataan gaya yang kuat. **Kanopi minimalis** semakin digemari karena kemampuannya menciptakan ruang transisi yang estetis, fungsional, dan menyatu dengan arsitektur modern.
 
 Tren ini tidak hanya tentang tampilan, tetapi juga tentang material cerdas, efisiensi, dan kesadaran akan iklim Bandung yang unik. Mari kita telusuri apa saja yang sedang populer.

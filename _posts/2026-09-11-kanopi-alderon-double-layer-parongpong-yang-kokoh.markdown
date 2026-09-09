@@ -15,7 +15,7 @@ image: /assets/images/posts/kanopi-alderon-double-layer-parongpong-yang-kokoh_im
   <figcaption style="color:#64748b;font-size:0.9em;margin-top:0.5rem;font-weight:500;">Contoh kanopi Alderon double layer dengan rangka baja yang kokoh untuk carport rumah.</figcaption>
 </figure>
 
-<h1>Kanopi Alderon Double Layer Parongpong yang Kokoh</h1>
+
 <p>Untuk rumah di Parongpong yang sering menghadapi hujan deras, udara lembap, dan perubahan cuaca cepat, kanopi Alderon double layer dengan rangka besi yang dihitung secara tepat merupakan solusi yang aman dan nyaman. Sistem dua lapis membantu mengurangi panas serta suara air hujan, sedangkan rangka hollow galvanis atau baja ringan berprofil sesuai bentang menjaga atap tetap stabil. Di Kharisma Steel, estimasi harga termurah kanopi Alderon double layer mulai dari <strong>Rp 850.000 per m²</strong>, tergantung ukuran, jenis rangka, model kemiringan, tingkat kesulitan pemasangan, dan finishing.</p>
 <p>Harga tersebut bersifat estimasi awal, bukan harga mutlak untuk semua proyek. Setiap rumah memiliki kondisi berbeda, terutama pada posisi kolom, jenis dinding, akses kerja, dan kebutuhan talang. Karena itu, survey lapangan penting dilakukan sebelum gambar kerja dan penawaran final dibuat.</p>
 <h2>Mengapa Alderon Double Layer Cocok untuk Parongpong?</h2>

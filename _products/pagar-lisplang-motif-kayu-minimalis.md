@@ -8,8 +8,6 @@ description: "Pagar besi lisplang minimalis motif kayu untuk rumah modern di Ban
 keywords: "pagar besi motif kayu, pagar lisplang minimalis, pagar rumah Bandung, pagar besi minimalis, bengkel las Parongpong, Kharisma Steel"
 ---
 
-# Pagar Besi Lisplang Minimalis Motif Kayu Bandung
-
 Percantik fasad rumah dengan pagar besi lisplang motif kayu dari Kharisma Steel. Desain minimalisnya menghadirkan nuansa hangat seperti kayu, namun tetap memiliki kekuatan dan ketahanan besi untuk penggunaan jangka panjang. Cocok untuk rumah tinggal, ruko, vila, dan bangunan komersial di Bandung serta sekitarnya.
 
 ![Pagar Lisplang Motif Kayu Minimalis](/assets/images/products/pagar-lisplang-motif-kayu-minimalis-yellowframe.jpg)

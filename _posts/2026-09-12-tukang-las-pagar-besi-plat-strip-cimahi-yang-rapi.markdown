@@ -15,7 +15,7 @@ image: /assets/images/posts/tukang-las-pagar-besi-plat-strip-cimahi-yang-rapi_im
   <figcaption style="color:#64748b;font-size:0.9em;margin-top:0.5rem;font-weight:500;">Contoh pagar besi plat strip dengan susunan garis horizontal yang rapi dan modern.</figcaption>
 </figure>
 
-<h1>Tukang Las Pagar Besi Plat Strip Cimahi yang Rapi</h1>
+
 <p>Untuk mendapatkan pagar besi plat strip di Cimahi yang kuat, presisi, dan enak dilihat, pilih bengkel las yang mampu mengerjakan tiga hal sekaligus: menghitung konstruksi, menghasilkan sambungan las rapi, dan memberikan finishing antikarat secara benar. Kharisma Steel melayani pembuatan serta pemasangan pagar besi plat strip untuk rumah, ruko, kantor, vila, dan area komersial dengan survei lokasi serta konsultasi desain terlebih dahulu.</p>
 <p>Pagar plat strip banyak dipilih karena tampilannya sederhana, modern, dan mudah disesuaikan dengan lebar halaman. Bilah besi dapat dibuat horizontal, vertikal, kombinasi geometris, atau dipadukan dengan material lain. Namun, hasil akhir tidak hanya ditentukan oleh motif. Ketebalan plat, jarak antarbilah, ukuran tiang, kualitas engsel, metode pengelasan, dan perlindungan terhadap karat juga harus diperhatikan sejak awal.</p>
 <h2>Mengapa plat strip cocok untuk rumah di Cimahi?</h2>

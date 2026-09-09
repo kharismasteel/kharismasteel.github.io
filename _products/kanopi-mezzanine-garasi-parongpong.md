@@ -9,8 +9,6 @@ keywords: "kanopi mezzanine, mezzanine garasi mobil, kanopi garasi Bandung, beng
 date: 2026-09-07 08:00:00 +0700
 ---
 
-# Kanopi Mezzanine Garasi Mobil Parongpong Bandung
-
 Kharisma Steel menghadirkan kanopi mezzanine garasi mobil untuk menambah ruang fungsional di atas area parkir. Solusi ini cocok untuk rumah, ruko, maupun bangunan usaha di Parongpong, Bandung, Bandung Barat, Cimahi, Lembang, Padalarang, Soreang, Cileunyi, dan sekitarnya.
 
 ![Kanopi Mezzanine Garasi Parongpong](/assets/images/products/kanopi-mezzanine-garasi-parongpong-yellowframe.jpg)

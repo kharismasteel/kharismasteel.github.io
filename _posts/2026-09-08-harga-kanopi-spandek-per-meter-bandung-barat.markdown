@@ -15,7 +15,7 @@ image: /assets/images/posts/harga-kanopi-spandek-per-meter-bandung-barat_img-1.w
   <figcaption style="color:#64748b;font-size:0.9em;margin-top:0.5rem;font-weight:500;">Kanopi spandek dengan rangka besi minimalis melindungi area carport dari hujan dan panas.</figcaption>
 </figure>
 
-<h1>Harga Kanopi Spandek per Meter Bandung Barat</h1>
+
 <p>Harga kanopi spandek per meter Bandung Barat mulai dari <strong>Rp 450.000 per m²</strong> untuk model standar dengan rangka besi dan atap spandek, tergantung ukuran, ketebalan material, desain, finishing, serta tingkat kesulitan pemasangan. Untuk mendapatkan hasil yang kuat dan rapi, perhitungan tidak cukup hanya berdasarkan luas area; jenis profil rangka, jarak gording, kemiringan atap, metode angkur, dan kondisi dinding juga perlu diperiksa sejak awal.</p>
 <p>Kharisma Steel Parongpong Bandung membantu pemilik rumah, ruko, vila, dan bangunan usaha di Bandung Barat memperoleh kanopi yang sesuai kebutuhan tanpa rincian biaya yang membingungkan. Anda dapat menghubungi <strong>082318993732</strong> untuk free survey dan konsultasi gratis, termasuk pengecekan lokasi sebelum penawaran dibuat.</p>
 <h2>Berapa biaya kanopi spandek yang realistis?</h2>

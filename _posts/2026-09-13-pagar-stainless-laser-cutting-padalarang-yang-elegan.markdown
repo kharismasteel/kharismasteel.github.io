@@ -15,7 +15,7 @@ image: /assets/images/posts/pagar-stainless-laser-cutting-padalarang-yang-elegan
   <figcaption style="color:#64748b;font-size:0.9em;margin-top:0.5rem;font-weight:500;">Contoh pagar stainless laser cutting dengan pola geometris modern untuk hunian.</figcaption>
 </figure>
 
-<h1>Pagar Stainless Laser Cutting Padalarang yang Elegan</h1>
+
 <p>Untuk mendapatkan pagar stainless laser cutting Padalarang yang kuat, rapi, dan tidak mudah berkarat, gunakan material stainless berkualitas, desain panel yang proporsional, serta pengelasan dan pemasangan yang dikerjakan secara presisi. Kharisma Steel melayani pembuatan pagar custom untuk rumah, ruko, villa, dan bangunan komersial di Padalarang serta wilayah Bandung Barat dengan estimasi harga mulai <strong>Rp 1.250.000 per m²</strong>, tergantung jenis stainless, ketebalan, pola laser cutting, rangka, finishing, dan kondisi lokasi.</p>
 <p>Pagar bukan hanya pembatas lahan. Pada fasad rumah, pagar menjadi elemen pertama yang terlihat sehingga harus mampu menggabungkan keamanan, privasi, estetika, dan ketahanan terhadap cuaca. Teknologi laser cutting membantu menghasilkan pola yang presisi, sedangkan stainless steel memberikan tampilan bersih sekaligus perlindungan yang baik terhadap kelembapan.</p>
 <h2>Mengapa laser cutting cocok untuk pagar rumah?</h2>

@@ -9,8 +9,6 @@ keywords: "pagar minimalis Soreang, pagar besi Bandung, pagar modern Bandung Bar
 date: 2026-09-07 08:00:00 +0700
 ---
 
-# Pagar Minimalis Modern Soreang Bandung
-
 Percantik dan amankan properti Anda dengan Pagar Minimalis Modern Soreang Bandung dari Kharisma Steel. Kami melayani pembuatan pagar besi custom untuk rumah, ruko, kantor, vila, dan berbagai properti di Soreang, Bandung, Bandung Barat, Cimahi, Lembang, Padalarang, Cileunyi, serta area sekitarnya.
 
 ![Pagar Minimalis Modern Soreang](/assets/images/products/pagar-minimalis-modern-soreang-yellowframe.jpg)

@@ -9,8 +9,6 @@ keywords: "pagar besi minimalis, pagar lisplang, pagar modern Bandung, pagar bes
 date: 2026-09-07 08:00:00 +0700
 ---
 
-# Pagar Besi Lisplang Minimalis Modern Parongpong
-
 Percantik sekaligus amankan rumah Anda dengan pagar besi lisplang bergaya minimalis modern dari Kharisma Steel. Desainnya rapi, proporsional, dan dapat disesuaikan dengan tampilan fasad rumah, kebutuhan privasi, serta ukuran lahan di Parongpong dan sekitarnya.
 
 ![Pagar Lisplang Minimalis Parongpong](/assets/images/products/pagar-lisplang-minimalis-parongpong-yellowframe.jpg)

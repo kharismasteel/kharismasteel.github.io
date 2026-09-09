@@ -15,7 +15,7 @@ image: /assets/images/posts/teralis-minimalis-motif-bunga-untuk-rumah-parongpong
   <figcaption style="color:#64748b;font-size:0.9em;margin-top:0.5rem;font-weight:500;">Contoh teralis besi minimalis dengan aksen motif bunga yang mempercantik fasad rumah.</figcaption>
 </figure>
 
-<h1>Teralis Minimalis Motif Bunga untuk Rumah Parongpong</h1>
+
 <p>Untuk mendapatkan teralis minimalis motif bunga Parongpong yang aman, rapi, dan tidak terlihat berlebihan, pilih rangka besi hollow atau besi siku dengan ketebalan sesuai ukuran bukaan, sambungan las penuh, serta finishing antikarat berlapis. Harga awal yang umum digunakan sebagai acuan adalah <strong>Rp 450.000 per m²</strong>, tetapi biaya akhirnya menyesuaikan desain, jenis besi, jumlah bukaan, tingkat kerumitan motif, serta kondisi pemasangan di rumah.</p>
 <p>Kharisma Steel melayani pembuatan teralis jendela, teralis pintu, pagar, railing, dan berbagai konstruksi besi custom untuk Parongpong dan sekitarnya. Motif bunga dapat dibuat sederhana bergaya geometris, lengkung klasik, atau dikombinasikan dengan garis vertikal minimalis sehingga tetap cocok untuk rumah modern, rumah tropis, maupun hunian bergaya klasik.</p>
 <h2>Kenapa motif bunga tetap cocok untuk rumah minimalis?</h2>

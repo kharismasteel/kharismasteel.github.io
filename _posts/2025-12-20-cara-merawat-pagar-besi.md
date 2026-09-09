@@ -9,8 +9,6 @@ tags: [pagar, perawatan, besi, korosi, maintenance]
 keywords: "merawat pagar besi, perawatan pagar, pagar berkarat, rust prevention, maintenance pagar"
 ---
 
-# Cara Merawat Pagar Besi Minimalis Agar Awet & Tidak Berkarat
-
 Pagar besi adalah investasi jangka panjang untuk keamanan dan estetika rumah. Namun, tanpa perawatan yang tepat, karat bisa mulai muncul dalam beberapa tahun dan merusak penampilan serta strukturnya.
 
 Artikel ini akan memberikan panduan praktis perawatan pagar besi agar tetap tahan bertahun-tahun.

@@ -9,8 +9,6 @@ keywords: "pagar besi minimalis, pagar woodplank GRC, pagar Padalarang, pagar Ba
 date: 2026-09-07 08:00:00 +0700
 ---
 
-# Pagar Besi Minimalis Woodplank GRC Padalarang
-
 Percantik sekaligus amankan properti Anda dengan pagar besi minimalis woodplank GRC dari Kharisma Steel. Perpaduan rangka besi yang kokoh dan panel GRC bermotif kayu menghadirkan tampilan modern, hangat, serta mudah disesuaikan dengan gaya rumah, kantor, ruko, maupun bangunan komersial di Padalarang dan sekitarnya.
 
 ![Pagar Woodplank GRC Minimalis Padalarang](/assets/images/products/pagar-woodplank-grc-minimalis-padalarang-yellowframe.jpg)

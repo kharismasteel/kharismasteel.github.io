@@ -15,7 +15,7 @@ image: /assets/images/posts/kanopi-kaca-tempered-elegan-untuk-rumah-lembang_img-
   <figcaption style="color:#64748b;font-size:0.9em;margin-top:0.5rem;font-weight:500;">Kanopi kaca tempered memberikan perlindungan dari hujan tanpa mengurangi cahaya alami pada fasad rumah.</figcaption>
 </figure>
 
-<h1>Kanopi Kaca Tempered Elegan untuk Rumah Lembang</h1>
+
 <p>Jasa kanopi kaca tempered Lembang Bandung dari Kharisma Steel cocok untuk pemilik rumah yang menginginkan area teras atau carport tetap terang, terlindung dari hujan, dan terlihat modern. Konstruksi yang aman tidak hanya bergantung pada jenis kaca, tetapi juga pada ketebalan kaca, kualitas rangka, kemiringan atap, sistem pembuangan air, serta metode pemasangan. Untuk acuan anggaran, kanopi transparan dengan rangka stainless atau konstruksi sejenis tersedia mulai sekitar <strong>Rp 950.000 per m²</strong>, sedangkan kanopi kaca tempered custom perlu dihitung berdasarkan ukuran, tipe rangka, akses lokasi, dan detail finishing.</p>
 <p>Kharisma Steel melayani survei dan konsultasi untuk area Lembang, Parongpong, Bandung, Bandung Barat, Cimahi, Padalarang, Soreang, dan Cileunyi. Hubungi WhatsApp resmi <strong>082318993732</strong> untuk mendapatkan estimasi yang lebih sesuai dengan kondisi bangunan Anda.</p>
 <h2>Kenapa kaca tempered menarik untuk rumah Lembang?</h2>

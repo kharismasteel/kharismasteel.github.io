@@ -15,7 +15,7 @@ image: /assets/images/posts/pasang-kanopi-mezzanine-rapi-di-parongpong-lembang_i
   <figcaption style="color:#64748b;font-size:0.9em;margin-top:0.5rem;font-weight:500;">Contoh kanopi mezzanine dengan rangka besi yang fungsional untuk hunian di kawasan Parongpong dan Lembang.</figcaption>
 </figure>
 
-<h1>Pasang Kanopi Mezzanine Rapi di Parongpong Lembang</h1>
+
 <p>Jasa pasang kanopi mezzanine Parongpong Lembang cocok untuk pemilik rumah, toko, vila, dan bangunan usaha yang ingin mendapatkan area teduh sekaligus ruang tambahan di atas carport atau teras. Konstruksi ini biasanya memadukan rangka besi atau baja, lantai mezzanine, tangga akses, pagar pengaman, serta atap kanopi yang dirancang untuk menghadapi hujan, angin, dan perubahan suhu khas kawasan dataran tinggi. Di Kharisma Steel, pekerjaan dimulai dari survey, pengukuran, perhitungan kebutuhan material, pembuatan rangka di workshop, hingga pemasangan dan pemeriksaan akhir di lokasi.</p>
 <p>Estimasi harga paling rendah untuk material kanopi standar berada di kisaran <strong>Rp 450.000 / m²</strong>. Namun, harga total kanopi mezzanine tidak selalu sama karena dipengaruhi luas bangunan, jenis lantai, ukuran kolom, model tangga, pilihan atap, ketinggian pemasangan, akses lokasi, dan tingkat kerumitan desain. Karena itu, survey lapangan tetap diperlukan agar penawaran tidak sekadar murah, tetapi juga aman dan sesuai kebutuhan.</p>
 <h2>Mengapa kanopi mezzanine menarik untuk rumah di Lembang?</h2>

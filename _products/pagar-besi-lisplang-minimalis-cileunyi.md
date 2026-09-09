@@ -9,8 +9,6 @@ keywords: "pagar besi Cileunyi, pagar lisplang minimalis, pagar anti karat, paga
 date: 2026-09-07 08:00:00 +0700
 ---
 
-# Pagar Besi Lisplang Minimalis Anti Karat Cileunyi
-
 Percantik sekaligus amankan hunian, kantor, toko, dan area usaha dengan Pagar Besi Lisplang Minimalis dari Kharisma Steel. Desainnya modern, garisnya rapi, dan konstruksinya dibuat kuat untuk menghadapi penggunaan harian serta kondisi cuaca di Cileunyi dan sekitarnya.
 
 ![Pagar Besi Lisplang Minimalis Cileunyi](/assets/images/products/pagar-besi-lisplang-minimalis-cileunyi-yellowframe.jpg)

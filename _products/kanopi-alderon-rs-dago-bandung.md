@@ -9,8 +9,6 @@ keywords: "kanopi Alderon Dago, kanopi Bandung, kanopi RS single layer, jasa kan
 date: 2026-09-07 08:00:00 +0700
 ---
 
-# Kanopi Alderon RS Single Layer Dago Bandung
-
 Hadirkan area teduh yang rapi dan modern dengan Kanopi Alderon RS Single Layer dari Kharisma Steel. Cocok untuk carport, teras, halaman rumah, ruko, dan area usaha di Dago Bandung serta sekitarnya. Rangka dibuat oleh tim bengkel las berpengalaman dengan pengukuran dan pemasangan yang menyesuaikan kondisi lokasi.
 
 ![Kanopi Alderon RS Dago Bandung](/assets/images/products/kanopi-alderon-rs-dago-bandung-yellowframe.jpg)

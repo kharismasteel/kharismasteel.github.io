@@ -15,7 +15,7 @@ image: /assets/images/posts/bengkel-las-pintu-henderson-lipat-padalarang-yang-ra
   <figcaption style="color:#64748b;font-size:0.9em;margin-top:0.5rem;font-weight:500;">Contoh pintu Henderson lipat dengan desain minimalis untuk akses garasi dan area usaha.</figcaption>
 </figure>
 
-<h1>Bengkel Las Pintu Henderson Lipat Padalarang yang Rapi</h1>
+
 <p>Jika Anda membutuhkan pintu garasi atau pintu akses lebar yang tidak memakan banyak area depan, pintu Henderson lipat merupakan solusi yang praktis. Sistem daunnya melipat ke sisi tertentu saat dibuka, sehingga sirkulasi kendaraan tetap lebih lega dibanding pintu ayun konvensional. Untuk wilayah Padalarang, pengerjaan sebaiknya ditangani bengkel las yang mampu menghitung ukuran bukaan, beban daun pintu, posisi rel, engsel, serta kondisi lantai secara menyeluruh. Kharisma Steel melayani pembuatan dan pemasangan pintu Henderson lipat custom dengan konsultasi, survei, serta estimasi biaya yang transparan.</p>
 <h2>Mengapa pintu Henderson cocok untuk Padalarang?</h2>
 

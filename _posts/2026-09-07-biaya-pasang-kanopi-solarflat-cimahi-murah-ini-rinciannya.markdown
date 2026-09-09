@@ -15,7 +15,7 @@ image: /assets/images/posts/biaya-pasang-kanopi-solarflat-cimahi-murah-ini-rinci
   <figcaption style="color:#64748b;font-size:0.9em;margin-top:0.5rem;font-weight:500;">Contoh kanopi solarflat minimalis yang teduh, ringan, dan cocok untuk carport rumah di Cimahi.</figcaption>
 </figure>
 
-<h1>Biaya Pasang Kanopi Solarflat Cimahi Murah, Ini Rinciannya</h1>
+
 <p>Estimasi <strong>biaya pasang kanopi solarflat Cimahi murah</strong> berada mulai dari <strong>Rp 450.000 per m²</strong> untuk spesifikasi ekonomis dengan rangka besi hollow dan atap solarflat standar. Harga akhir tetap bergantung pada ukuran kanopi, ketebalan material, model rangka, tinggi pemasangan, finishing, kondisi dinding atau lantai, serta jarak lokasi dari workshop. Agar tidak salah menghitung anggaran, pemilik rumah sebaiknya meminta survei dan penawaran tertulis sebelum pekerjaan dimulai.</p>
 <p>Kharisma Steel melayani pembuatan serta pemasangan kanopi di Cimahi, Parongpong, Bandung, Bandung Barat, Lembang, Padalarang, Soreang, dan Cileunyi. Dengan dukungan tim bengkel las dan teknisi lapangan, desain kanopi dapat disesuaikan untuk carport, teras, balkon, area jemuran, garasi, maupun akses pintu utama.</p>
 <h2>Berapa kisaran harga kanopi solarflat di Cimahi?</h2>

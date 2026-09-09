@@ -9,8 +9,6 @@ keywords: "teralis besi Lembang, pintu double door, teralis pintu Bandung, bengk
 date: 2026-09-07 08:00:00 +0700
 ---
 
-# Teralis Besi Pintu Double Door Lembang
-
 Teralis besi pintu double door dari Kharisma Steel Parongpong menjadi pilihan tepat untuk menambah keamanan sekaligus memperkuat tampilan fasad rumah, ruko, vila, atau bangunan usaha. Desain dapat disesuaikan dengan ukuran pintu, gaya arsitektur, motif, dan kebutuhan pemasangan di area Lembang serta sekitarnya.
 
 ![Teralis Besi Pintu Double Door Lembang](/assets/images/products/teralis-besi-pintu-double-door-lembang-yellowframe.jpg)

@@ -7,8 +7,6 @@ description: Kanopi atap alderon (polycarbonate) ringan, tahan lama, dan tersedi
 keywords: alderon, kanopi, polycarbonate, kanopi murah, kanopi bandung, kanopi murah bandung, atap teras, solusi kanopi ekonomis
 ---
 
-# Kanopi Alderon: Solusi Ekonomis & Fungsional untuk Rumah Anda di Bandung
-
 Mencari pelindung teras atau carport yang **awet, terang, namun ramah di kantong**? Kanopi Alderon adalah jawabannya. Sebagai pilihan utama untuk **kanopi murah di Bandung**, atap berbahan polycarbonate ini menawarkan kombinasi sempurna antara fungsi, estetika, dan harga yang terjangkau.
 
 ## Mengapa Memilih Kanopi Alderon?

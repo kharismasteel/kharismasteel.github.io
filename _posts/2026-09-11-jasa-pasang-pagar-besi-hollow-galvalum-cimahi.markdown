@@ -15,7 +15,7 @@ image: /assets/images/posts/jasa-pasang-pagar-besi-hollow-galvalum-cimahi_img-1.
   <figcaption style="color:#64748b;font-size:0.9em;margin-top:0.5rem;font-weight:500;">Contoh desain pagar hollow galvalum minimalis dengan garis horizontal yang rapi.</figcaption>
 </figure>
 
-<h1>Jasa Pasang Pagar Besi Hollow Galvalum Cimahi</h1>
+
 <p>Untuk mendapatkan pagar rumah yang rapi, kokoh, dan lebih tahan terhadap cuaca Cimahi, gunakan material hollow dengan perlindungan galvalum atau galvanis, lalu pastikan pemasangannya dikerjakan berdasarkan ukuran lapangan. Kharisma Steel melayani <strong>jasa pasang pagar besi hollow galvalum Cimahi</strong> mulai dari survei, konsultasi desain, produksi, finishing, hingga pemasangan di lokasi.</p>
 <p>Estimasi harga termurah pagar besi galvanis minimalis berada di kisaran <strong>Rp 650.000 per m²</strong>. Nominal tersebut dapat berubah sesuai ukuran pagar, ketebalan hollow, model rangka, jenis pintu, finishing, kondisi lantai, serta tingkat kesulitan akses menuju lokasi. Karena itu, survei menjadi tahap penting agar harga yang diberikan benar-benar sesuai kebutuhan, bukan sekadar perkiraan dari foto.</p>
 <h2>Kenapa hollow galvalum cocok untuk pagar rumah?</h2>

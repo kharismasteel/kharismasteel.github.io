@@ -6,8 +6,10 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <!-- SEO Meta Tags -->
-  <title>{% if page.title and page.title != "" %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }} - Bengkel Las Parongpong Bandung{% endif %}</title>
-  <meta name="description" content="{{ page.description | default: site.description }}">
+  {% assign seo_title = page.seo_title | default: page.title %}
+  {% assign seo_description = page.description | default: page.excerpt | default: site.description | strip_html | strip_newlines | truncate: 160 %}
+  <title>{% if seo_title and seo_title != "" %}{{ seo_title | escape }} | Kharisma Steel{% else %}{{ site.title | escape }}{% endif %}</title>
+  <meta name="description" content="{{ seo_description | escape }}">
   <meta name="keywords" content="{{ page.keywords | default: 'bengkel las bandung, bengkel las parongpong, kharisma steel, kanopi minimalis bandung, pagar laser cutting bandung, tangga besi mezzanine, konstruksi baja sni bandung, harga kanopi per meter bandung, jasa las murah bandung' }}">
 
   <!-- Canonical URL -->
@@ -22,16 +24,16 @@
   <!-- Open Graph / Facebook Meta Tags -->
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="Kharisma Steel Bandung">
-  <meta property="og:title" content="{% if page.title and page.title != '' %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }} - Bengkel Las Parongpong Bandung{% endif %}">
-  <meta property="og:description" content="{{ page.description | default: site.description }}">
+  <meta property="og:title" content="{% if seo_title and seo_title != '' %}{{ seo_title | escape }} | Kharisma Steel{% else %}{{ site.title | escape }}{% endif %}">
+  <meta property="og:description" content="{{ seo_description | escape }}">
   <meta property="og:url" content="{{ page.url | absolute_url }}">
   <meta property="og:image" content="{% if page.image %}{{ page.image | absolute_url }}{% else %}https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAm_wKvHBL4lQJF-lwjUexclOPT0brwGLbfa83EntB9HgmEBByHhZpkFAo1Tll81LgizHizyvrBKCFpbENQOrM1w2PC-GlSgGcgtDi0qdzCfNl-22shGvc2lLtCuIzZDCR1C93WheaFVM/s1600/3.jpg{% endif %}">
   <meta property="og:locale" content="id_ID">
 
   <!-- Twitter Card Meta Tags -->
   <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:title" content="{% if page.title and page.title != '' %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }} - Bengkel Las Parongpong Bandung{% endif %}">
-  <meta name="twitter:description" content="{{ page.description | default: site.description }}">
+  <meta name="twitter:title" content="{% if seo_title and seo_title != '' %}{{ seo_title | escape }} | Kharisma Steel{% else %}{{ site.title | escape }}{% endif %}">
+  <meta name="twitter:description" content="{{ seo_description | escape }}">
   <meta name="twitter:image" content="{% if page.image %}{{ page.image | absolute_url }}{% else %}https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAm_wKvHBL4lQJF-lwjUexclOPT0brwGLbfa83EntB9HgmEBByHhZpkFAo1Tll81LgizHizyvrBKCFpbENQOrM1w2PC-GlSgGcgtDi0qdzCfNl-22shGvc2lLtCuIzZDCR1C93WheaFVM/s1600/3.jpg{% endif %}">
 
   <!-- Schema.org LocalBusiness JSON-LD for Google Local Pack & Google Search -->
@@ -80,6 +82,7 @@
   <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
 
   <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
+  <link rel="stylesheet" href="{{ "/css/tailwind.css" | relative_url }}">
   <link rel="stylesheet" type="text/css" href="/css/override.css">
 
   {% feed_meta %}
@@ -90,20 +93,6 @@
   <!-- End Google Analytics -->
   {%- endif %}
 
-  <!-- Begin highlight.js support -->
-  <link rel="stylesheet" href="/js/highlightjs/styles/github.css">
-  <link rel="stylesheet" href="/js/highlightjs/styles/ssms.css" />
-
-  <!-- Tailwind + Google Fonts used by homepage -->
-  <script src="https://cdn.tailwindcss.com"></script>
+  <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
-
-  <script type="text/javascript" src="/js/highlightjs/highlight.min.js"></script>
-
-  <script type="text/javascript" src="/js/highlightjs/languages/plaintext.min.js"></script>
-  <script type="text/javascript" src="/js/highlightjs/languages/powershell.min.js"></script>
-  <script type="text/javascript" src="/js/highlightjs/languages/tsql.min.js"></script>
-
-  <script type="text/javascript"> hljs.highlightAll(); </script>
-  <!-- end highlight.js support -->
 </head>

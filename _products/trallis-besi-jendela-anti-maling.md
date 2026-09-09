@@ -9,8 +9,6 @@ keywords: "trallis besi jendela, trallis anti maling, teralis jendela Bandung, b
 date: 2026-09-07 08:00:00 +0700
 ---
 
-# Trallis Besi Jendela Anti Maling Parongpong
-
 Amankan jendela rumah, kantor, dan ruko dengan trallis besi custom dari Kharisma Steel. Kami melayani pembuatan serta pemasangan teralis jendela yang kuat, rapi, dan sesuai ukuran bangunan di Parongpong, Bandung, Bandung Barat, Cimahi, Lembang, Padalarang, Soreang, Cileunyi, dan sekitarnya.
 
 ![Trallis Besi Jendela Anti Maling](/assets/images/products/trallis-besi-jendela-anti-maling-yellowframe.jpg)

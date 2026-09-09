@@ -7,8 +7,6 @@ description: Kanopi kaca tempered dengan rangka stainless steel, pilihan premium
 keywords: kanopi kaca, stainless steel, kanopi elegan, kanopi modern, kanopi premium bandung, kaca tempered, atap transparan, kanopi minimalis
 ---
 
-# Kanopi Kaca Stainless: Kemewahan Transparan untuk Hunian Modern
-
 Mengusung kesan **premium, elegan, dan minimalis**, Kanopi Kaca Stainless adalah puncak dari estetika eksterior modern. Lebih dari sekadar pelindung, ia merupakan pernyataan gaya yang menyatukan hunian dengan langit, membanjiri ruang di bawahnya dengan cahaya alami sekaligus memberikan perlindungan prima. Sebagai solusi premium di Bandung, kanopi ini cocok untuk rumah, villa, kafe, atau lobby kantor yang mengutamakan kesan mewah dan terbuka.
 
 ## Keunggulan Kanopi Kaca Stainless

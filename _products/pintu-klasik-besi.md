@@ -7,8 +7,6 @@ description: Hadirkan pesan waktu yang elegan dengan Pintu Klasik Besi kami. Men
 keywords: pintu besi, pintu klasik, pintu tempa, pintu besi klasik, pintu depan mewah, pintu ornamen, pintu anti maling, pintu rumah tradisional
 ---
 
-# Pintu Klasik Besi: Padukan Estetika Abadi dengan Pengamanan Optimal
-
 Pintu depan adalah elemen pertama yang menyambut tamu dan mencerminkan karakter penghuni rumah. **Pintu Klasik Besi** hadir sebagai perpaduan sempurna antara seni kerajinan tempa yang timeless dengan kokohnya material besi. Tidak hanya memperkuat keamanan, pintu ini juga menjadi masterpiece yang meningkatkan nilai dan keindahan eksterior properti Anda.
 
 ## Mengapa Memilih Pintu Klasik dari Besi?
@@ -66,5 +64,5 @@ Pilih Pintu Klasik Besi sebagai mahkota dari hunian Anda. Dapatkan keamanan tanp
 **Konsultasikan konsep pintu klasik impian Anda sekarang juga!**
 
 **Kharisma Steel - Ahli Pintu & Pagar Besi Berkualitas**  
-📞 **Telepon/WA:** [0813-2008-7982](https://wa.me/6282318993732)  
+📞 **Telepon/WA:** [082318993732](https://wa.me/6282318993732)
 🏭 **Melayani:** Bandung, Cimahi, Jawa Barat, dan sekitarnya.

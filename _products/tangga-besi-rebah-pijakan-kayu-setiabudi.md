@@ -9,8 +9,6 @@ keywords: "tangga besi rebah, tangga pijakan kayu, tangga loteng Bandung, tangga
 date: 2026-09-07 08:00:00 +0700
 ---
 
-# Tangga Besi Rebah Pijakan Kayu Setiabudi
-
 Kharisma Steel menghadirkan tangga besi rebah dengan pijakan kayu yang praktis, kokoh, dan hemat ruang. Cocok untuk akses loteng, gudang, rumah tinggal, maupun area servis di Setiabudi, Bandung, dan sekitarnya. Desain serta ukuran dapat disesuaikan dengan kondisi lokasi melalui konsultasi dan pengukuran.
 
 ![Tangga Besi Rebah Pijakan Kayu Setiabudi](/assets/images/products/tangga-besi-rebah-pijakan-kayu-setiabudi-yellowframe.jpg)

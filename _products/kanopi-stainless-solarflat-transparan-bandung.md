@@ -9,8 +9,6 @@ keywords: "kanopi stainless Bandung, kanopi Solarflat transparan, kanopi modern,
 date: 2026-09-07 08:00:00 +0700
 ---
 
-# Kanopi Stainless Solarflat Transparan Bandung
-
 Percantik sekaligus lindungi area teras, carport, balkon, dan ruang usaha dengan kanopi stainless Solarflat transparan dari Kharisma Steel Parongpong Bandung. Desainnya modern, bersih, dan membantu meneruskan cahaya alami tanpa mengabaikan perlindungan dari panas serta hujan.
 
 ![Kanopi Stainless Solarflat Transparan Bandung](/assets/images/products/kanopi-stainless-solarflat-transparan-bandung-yellowframe.jpg)

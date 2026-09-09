@@ -15,7 +15,7 @@ image: /assets/images/posts/kanopi-carport-alderon-lembang-yang-teduh-dan-awet_i
   <figcaption style="color:#64748b;font-size:0.9em;margin-top:0.5rem;font-weight:500;">Kanopi carport Alderon membantu melindungi kendaraan dari hujan, panas, dan perubahan cuaca di Lembang.</figcaption>
 </figure>
 
-<h1>Kanopi Carport Alderon Lembang yang Teduh dan Awet</h1>
+
 <p>Untuk carport rumah di Lembang, pilihan paling aman adalah menggunakan atap Alderon yang dipasang di atas rangka baja atau besi berkualitas dengan kemiringan dan detail drainase yang tepat. Material ini mampu meredam suara hujan, mengurangi panas matahari, serta memberikan tampilan rapi untuk rumah minimalis. Kharisma Steel melayani <strong>jasa pembuatan kanopi carport Alderon Lembang</strong> mulai dari survei ukuran, desain, fabrikasi, pengecatan, hingga pemasangan di lokasi.</p>
 <p>Harga termurah yang dapat dijadikan patokan adalah sekitar <strong>Rp 450.000 per m²</strong>. Namun, harga akhir dapat berubah mengikuti jenis rangka, ketebalan material, model tiang, kondisi lantai, tingkat kesulitan akses, serta pilihan Alderon single layer atau tipe lain. Karena itu, pengukuran langsung penting dilakukan sebelum penawaran dibuat.</p>
 

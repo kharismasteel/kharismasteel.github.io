@@ -9,8 +9,6 @@ keywords: "pagar stainless Cimahi, stainless steel 304, pagar anti karat, pagar 
 date: 2026-09-07 08:00:00 +0700
 ---
 
-# Pagar Stainless Steel 304 Anti Karat Cimahi
-
 Tingkatkan keamanan dan tampilan properti dengan Pagar Stainless Steel 304 Anti Karat dari Kharisma Steel. Cocok untuk rumah, ruko, kantor, vila, dan area komersial di Cimahi serta sekitarnya. Pengerjaan dilakukan oleh tim bengkel las berpengalaman dengan hasil rapi dan sesuai kebutuhan desain.
 
 ![Pagar Stainless 304 Cimahi](/assets/images/products/pagar-stainless-304-cimahi-yellowframe.jpg)

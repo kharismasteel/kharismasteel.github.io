@@ -9,8 +9,6 @@ keywords: "kanopi spandek Setiabudi, kanopi spandek murah, kanopi per meter, kan
 date: 2026-09-07 08:00:00 +0700
 ---
 
-# Kanopi Spandek Per Meter Termurah Setiabudi
-
 Percantik dan lindungi area rumah, toko, carport, atau tempat usaha dengan kanopi spandek dari Kharisma Steel. Kami mengerjakan kanopi per meter dengan rangka kokoh, pemasangan rapi, serta layanan survei dan estimasi untuk Setiabudi, Bandung, Bandung Barat, Cimahi, Lembang, Padalarang, Soreang, Cileunyi, dan sekitarnya.
 
 ![Kanopi Spandek Per Meter Setiabudi](/assets/images/products/kanopi-spandek-per-meter-setiabudi-yellowframe.jpg)

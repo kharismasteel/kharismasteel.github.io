@@ -9,8 +9,6 @@ keywords: "kanopi spandek Setiabudi, kanopi murah Bandung, kanopi per meter, kan
 date: 2026-09-07 08:00:00 +0700
 ---
 
-# Kanopi Spandek Hemat Setiabudi
-
 Butuh kanopi spandek yang ekonomis, rapi, dan tahan digunakan untuk rumah, garasi, teras, kios, atau area usaha? Kharisma Steel Parongpong melayani pembuatan serta pemasangan kanopi spandek di Setiabudi, Bandung, Bandung Barat, Cimahi, Lembang, Padalarang, Soreang, Cileunyi, dan sekitarnya.
 
 ![Kanopi Spandek Hemat Setiabudi](/assets/images/products/kanopi-spandek-hemat-setiabudi-yellowframe.jpg)

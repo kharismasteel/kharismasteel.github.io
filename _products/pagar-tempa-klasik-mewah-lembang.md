@@ -9,8 +9,6 @@ keywords: "pagar tempa Lembang, pagar klasik Bandung, pagar besi mewah, pagar ru
 date: 2026-09-07 08:00:00 +0700
 ---
 
-# Pagar Tempa Klasik Mewah Lembang
-
 Percantik tampilan rumah, vila, dan bangunan komersial dengan Pagar Tempa Klasik Mewah Lembang dari Kharisma Steel. Desain dekoratif yang elegan dipadukan dengan konstruksi besi kokoh untuk menghadirkan keamanan, karakter, dan nilai estetika pada properti Anda di Lembang, Parongpong, Bandung, Bandung Barat, Cimahi, Padalarang, Soreang, Cileunyi, dan sekitarnya.
 
 ![Pagar Tempa Klasik Mewah Lembang](/assets/images/products/pagar-tempa-klasik-mewah-lembang-yellowframe.jpg)

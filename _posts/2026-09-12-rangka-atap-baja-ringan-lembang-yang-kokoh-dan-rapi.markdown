@@ -15,7 +15,7 @@ image: /assets/images/posts/rangka-atap-baja-ringan-lembang-yang-kokoh-dan-rapi_
   <figcaption style="color:#64748b;font-size:0.9em;margin-top:0.5rem;font-weight:500;">Rangka atap baja ringan yang dirancang presisi untuk rumah di kawasan Lembang.</figcaption>
 </figure>
 
-<h1>Rangka Atap Baja Ringan Lembang yang Kokoh dan Rapi</h1>
+
 <p>Untuk mendapatkan rangka atap yang aman di Lembang, gunakan profil baja ringan dengan ketebalan sesuai bentang, sambungan sekrup yang tepat, serta pemasangan yang mengikuti kemiringan dan beban penutup atap. Kharisma Steel melayani kebutuhan <strong>bengkel las rangka atap baja ringan Lembang Bandung Barat</strong> mulai dari survey, pengukuran, perhitungan kebutuhan material, fabrikasi, hingga pemasangan di lokasi.</p>
 <p>Kawasan Lembang memiliki curah hujan tinggi, udara lembap, kontur tanah yang beragam, dan pada beberapa area menerima hembusan angin cukup kuat. Karena itu, rangka atap tidak cukup hanya terlihat rapi. Konstruksi harus memiliki detail sambungan, pengaku, tumpuan, dan perlindungan material yang sesuai agar tidak mudah melendut, bergeser, atau mengalami korosi.</p>
 <h2>Kenapa rangka atap Lembang perlu dihitung sejak awal?</h2>

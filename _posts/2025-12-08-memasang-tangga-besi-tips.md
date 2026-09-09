@@ -9,8 +9,6 @@ tags: [tangga, instalasi, keselamatan, besi, konstruksi]
 keywords: "tangga besi, memasang tangga, keamanan tangga, standar tangga, tangga minimalis, finishing tangga, bandung"
 ---
 
-# Tips Memasang Tangga Besi Mezzanine: Panduan Standar Keamanan & Estetika
-
 
 Tangga besi yang dirancang dan dipasang dengan baik dapat meningkatkan nilai estetika rumah sambil memastikan keselamatan penggunaan. Namun, banyak pemilik rumah yang tidak menyadari bahwa ada standar teknis yang harus dipenuhi.
 

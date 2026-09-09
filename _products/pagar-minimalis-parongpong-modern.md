@@ -8,8 +8,6 @@ description: "Pagar minimalis Parongpong Bandung dengan desain modern, rangka ko
 keywords: "pagar minimalis Parongpong, pagar besi Bandung, pagar rumah modern, pagar hollow galvanis, jasa las Bandung, Kharisma Steel"
 ---
 
-# Pagar Minimalis Parongpong Bandung
-
 Percantik dan tingkatkan keamanan rumah dengan pagar minimalis buatan Kharisma Steel Parongpong Bandung. Kami mengerjakan pagar besi sesuai ukuran, desain, dan kebutuhan properti di Bandung, Bandung Barat, Cimahi, Lembang, Padalarang, Soreang, Cileunyi, serta sekitarnya.
 
 ![Pagar Minimalis Parongpong Modern](/assets/images/products/pagar-minimalis-parongpong-modern-yellowframe.jpg)

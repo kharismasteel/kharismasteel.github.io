@@ -9,8 +9,6 @@ keywords: "pagar besi Cileunyi, pagar lisplang minimalis, pagar anti karat, paga
 date: 2026-09-07 08:00:00 +0700
 ---
 
-# Pagar Besi Lisplang Minimalis Anti Karat Cileunyi
-
 Percantik dan amankan hunian dengan pagar besi lisplang minimalis dari Kharisma Steel. Pagar dibuat custom sesuai ukuran, desain fasad, dan kebutuhan rumah di Cileunyi, Bandung, Bandung Barat, Cimahi, Lembang, Padalarang, Soreang, serta area sekitarnya.
 
 ![Pagar Lisplang Minimalis Cileunyi](/assets/images/products/pagar-lisplang-minimalis-cileunyi-yellowframe.jpg)

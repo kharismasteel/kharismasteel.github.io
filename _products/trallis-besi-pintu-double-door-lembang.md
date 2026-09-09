@@ -9,8 +9,6 @@ keywords: "trallis besi Lembang, pintu double door, tralis pintu besi, pintu bes
 date: 2026-09-07 08:00:00 +0700
 ---
 
-# Trallis Besi Pintu Double Door Lembang
-
 Percantik sekaligus tingkatkan keamanan rumah, ruko, atau bangunan komersial dengan trallis besi pintu double door dari Kharisma Steel Parongpong Bandung. Desain dapat disesuaikan dengan ukuran bukaan, model hunian, dan kebutuhan akses pintu.
 
 ![Trallis Besi Pintu Double Door Lembang](/assets/images/products/trallis-besi-pintu-double-door-lembang-yellowframe.jpg)

@@ -15,7 +15,7 @@ image: /assets/images/posts/bengkel-las-besi-tempa-klasik-parongpong-yang-rapi_i
   <figcaption style="color:#64748b;font-size:0.9em;margin-top:0.5rem;font-weight:500;">Pagar besi tempa klasik memberikan karakter elegan sekaligus perlindungan pada fasad rumah.</figcaption>
 </figure>
 
-<h1>Bengkel Las Besi Tempa Klasik Parongpong yang Rapi</h1>
+
 <p>Jika Anda mencari <strong>bengkel las besi tempa klasik Parongpong Bandung</strong>, pilihlah workshop yang mampu menggabungkan kekuatan konstruksi, ketelitian detail ornamen, serta finishing tahan cuaca. Kharisma Steel melayani pembuatan pagar, gerbang, railing, tralis, dan elemen dekoratif besi tempa custom untuk rumah, vila, kafe, hingga properti komersial di kawasan Parongpong dan sekitarnya.</p>
 <p>Estimasi harga awal pagar tempa klasik di Kharisma Steel adalah <strong>Rp 950.000 per m²</strong>. Nilai tersebut merupakan harga termurah dan dapat berubah sesuai ukuran, ketebalan material, jumlah ornamen, model bukaan, jenis finishing, kondisi lokasi, serta kebutuhan pemasangan. Karena itu, pengukuran langsung dan konsultasi teknis tetap diperlukan sebelum produksi.</p>
 

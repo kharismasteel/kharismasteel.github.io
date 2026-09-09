@@ -9,8 +9,6 @@ keywords: "tangga besi spiral, tangga putar Bandung, tangga besi Parongpong, tan
 date: 2026-09-07 08:00:00 +0700
 ---
 
-# Tangga Besi Putar Spiral Parongpong
-
 Kharisma Steel menghadirkan tangga besi putar spiral custom untuk rumah, toko, kantor, kafe, dan bangunan usaha di Parongpong, Bandung, serta area sekitarnya. Desainnya hemat ruang, kokoh, rapi, dan dapat disesuaikan dengan ukuran serta konsep bangunan Anda.
 
 ![Tangga Besi Spiral Parongpong](/assets/images/products/tangga-besi-spiral-parongpong-yellowframe.jpg)

@@ -9,8 +9,6 @@ keywords: "pagar tempa Cimahi, pagar ornament klasik, pagar besi tempa, pagar mi
 date: 2026-09-07 08:00:00 +0700
 ---
 
-# Pagar Tempa Ornament Klasik Cimahi
-
 Hadirkan kesan elegan dan berkelas pada hunian, kantor, maupun properti komersial dengan Pagar Tempa Ornament Klasik Cimahi dari Kharisma Steel. Desain ornament dekoratif dipadukan dengan konstruksi besi yang kokoh, pengerjaan presisi, dan finishing rapi untuk menunjang keamanan sekaligus memperindah tampilan fasad.
 
 ![Pagar Tempa Ornament Klasik Cimahi](/assets/images/products/pagar-tempa-ornament-klasik-cimahi-yellowframe.jpg)

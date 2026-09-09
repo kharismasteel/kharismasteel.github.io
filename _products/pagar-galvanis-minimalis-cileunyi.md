@@ -9,8 +9,6 @@ keywords: "pagar besi galvanis Cileunyi, pagar minimalis Bandung, pagar rumah ga
 date: 2026-09-07 08:00:00 +0700
 ---
 
-# Pagar Besi Minimalis Galvanis Cileunyi
-
 Percantik dan amankan rumah Anda dengan pagar besi minimalis galvanis dari Kharisma Steel Parongpong Bandung. Desain modern, konstruksi kokoh, serta lapisan galvanis membantu melindungi pagar dari cuaca dan risiko karat. Kami melayani pembuatan, pengukuran, dan pemasangan pagar di Cileunyi, Bandung, Bandung Barat, Cimahi, Lembang, Padalarang, Soreang, dan sekitarnya.
 
 ![Pagar Galvanis Minimalis Cileunyi](/assets/images/products/pagar-galvanis-minimalis-cileunyi-yellowframe.jpg)

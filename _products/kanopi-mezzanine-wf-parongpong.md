@@ -9,8 +9,6 @@ keywords: "kanopi mezzanine, besi WF Parongpong, mezzanine Bandung, konstruksi b
 date: 2026-09-07 08:00:00 +0700
 ---
 
-# Kanopi Mezzanine Besi WF Parongpong
-
 Kharisma Steel menyediakan kanopi mezzanine besi WF yang kokoh, fungsional, dan rapi untuk menambah area lantai atau perlindungan ruang pada rumah, toko, gudang, kantor, dan bangunan komersial. Kami melayani Parongpong, Bandung, Bandung Barat, Cimahi, Lembang, Padalarang, Soreang, Cileunyi, dan sekitarnya.
 
 ![Kanopi Mezzanine WF Parongpong](/assets/images/products/kanopi-mezzanine-wf-parongpong-yellowframe.jpg)

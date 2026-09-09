@@ -9,8 +9,6 @@ keywords: "trallis balkon Dago, railing besi Bandung, pengaman balkon, trallis b
 date: 2026-09-07 08:00:00 +0700
 ---
 
-# Trallis Besi Pengaman Balkon Dago Bandung
-
 Kharisma Steel Parongpong menyediakan trallis besi pengaman balkon untuk rumah, vila, dan bangunan komersial di Dago Bandung serta wilayah sekitarnya. Desain dapat disesuaikan dengan gaya minimalis, klasik, maupun modern agar balkon terlihat rapi sekaligus lebih aman.
 
 ![Trallis Besi Balkon Dago Bandung](/assets/images/products/trallis-besi-balkon-dago-bandung-yellowframe.jpg)
